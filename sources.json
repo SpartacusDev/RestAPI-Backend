@@ -1,0 +1,2607 @@
+{
+  "Sparcave": {
+    "packages": "https://spartacusdev.github.io/Packages.bz2",
+    "url": "https://spartacusdev.github.io/",
+    "download": "https://spartacusdev.github.io/"
+  },
+  "SarKaa": {
+    "packages": "https://SarKaa.github.io/Packages.bz2",
+    "url": "https://SarKaa.github.io/",
+    "download": "https://SarKaa.github.io/"
+  },
+  "Bingner": {
+    "packages": "https://apt.bingner.com/dists/ios/1443.00/main/binary-iphoneos-arm/Packages.bz2",
+    "url": "https://apt.bingner.com/",
+    "download": "https://apt.bingner.com/debs/1443.00/"
+  },
+  "Sileo": {
+    "packages": "https://repo.getsileo.app/Packages.bz2",
+    "url": "https://repo.getsileo.app/",
+    "download": "https://repo.getsileo.app/"
+  },
+  "SparkDev": {
+    "packages": "https://sparkdev.me/Packages.bz2",
+    "url": "https://sparkdev.me/",
+    "download": "https://sparkdev.me/"
+  },
+  "Rango\u2019s Repo": {
+    "packages": "https://yungspecht.github.io/Packages.bz2",
+    "url": "https://yungspecht.github.io/",
+    "download": "https://yungspecht.github.io/"
+  },
+  "Carloz Tech Official Repo": {
+    "packages": "https://carloztech.github.io/Packages.bz2",
+    "url": "https://carloztech.github.io/",
+    "download": "https://carloztech.github.io/"
+  },
+  "Skitty's Beta Repo": {
+    "packages": "https://skitty.xyz/beta/Packages.bz2",
+    "url": "https://skitty.xyz/beta/",
+    "download": "https://skitty.xyz/beta/"
+  },
+  "Sugiuta's Repo": {
+    "packages": "https://sugiuta.github.io/Packages.bz2",
+    "url": "https://sugiuta.github.io/",
+    "download": "https://sugiuta.github.io/"
+  },
+  "zlxdike's Repo": {
+    "packages": "https://zlxdike.github.io/repo/Packages.bz2",
+    "url": "https://zlxdike.github.io/repo/",
+    "download": "https://zlxdike.github.io/repo/"
+  },
+  "K-Repo": {
+    "packages": "https://kpwnz.github.io/Cydia/Packages.bz2",
+    "url": "https://kpwnz.github.io/Cydia/",
+    "download": "https://kpwnz.github.io/Cydia/"
+  },
+  "midey's repo": {
+    "packages": "https://apt.midey.org/Packages.bz2",
+    "url": "https://apt.midey.org/",
+    "download": "https://apt.midey.org/"
+  },
+  "DroomOne": {
+    "packages": "https://droomone.github.io/Packages.bz2",
+    "url": "https://droomone.github.io/",
+    "download": "https://droomone.github.io/"
+  },
+  "Skitty's Repo": {
+    "packages": "https://skitty.xyz/repo/Packages.bz2",
+    "url": "https://skitty.xyz/repo/",
+    "download": "https://skitty.xyz/repo/"
+  },
+  "ToneCat's Repo": {
+    "packages": "https://tonecat.github.io/Packages.bz2",
+    "url": "https://tonecat.github.io/",
+    "download": "https://tonecat.github.io/"
+  },
+  "TapSharp": {
+    "packages": "https://tapsharp.github.io/Packages.bz2",
+    "url": "https://tapsharp.github.io/",
+    "download": "https://tapsharp.github.io/"
+  },
+  "AohuiLiu's Repo": {
+    "packages": "https://janedut.github.io/Packages.bz2",
+    "url": "https://janedut.github.io/",
+    "download": "https://janedut.github.io/"
+  },
+  "Person's Repo": {
+    "packages": "https://xxthepersonx.github.io/repo/Packages.bz2",
+    "url": "https://xxthepersonx.github.io/repo/",
+    "download": "https://xxthepersonx.github.io/repo/"
+  },
+  "Pr0crustes": {
+    "packages": "https://pr0crustes.github.io/repo/Packages.bz2",
+    "url": "https://pr0crustes.github.io/repo/",
+    "download": "https://pr0crustes.github.io/repo/"
+  },
+  "Jammytea's repo": {
+    "packages": "https://jammytea.github.io/Packages.bz2",
+    "url": "https://jammytea.github.io/",
+    "download": "https://jammytea.github.io/"
+  },
+  "Opal Beta Repo": {
+    "packages": "https://ikilledappl3.com/opalbeta/Packages.bz2",
+    "url": "https://ikilledappl3.com/opalbeta/",
+    "download": "https://ikilledappl3.com/opalbeta/"
+  },
+  "CP Digital Darkroom Repo": {
+    "packages": "https://repo.cpdigitaldarkroom.com/Packages.bz2",
+    "url": "https://repo.cpdigitaldarkroom.com/",
+    "download": "https://repo.cpdigitaldarkroom.com/"
+  },
+  "OvercookedFish's Repo": {
+    "packages": "https://overcookedfish.github.io/Packages.bz2",
+    "url": "https://overcookedfish.github.io/",
+    "download": "https://overcookedfish.github.io/"
+  },
+  "WhyIsItReal's Repo": {
+    "packages": "https://whyisitreal.github.io/Packages.bz2",
+    "url": "https://whyisitreal.github.io/",
+    "download": "https://whyisitreal.github.io/"
+  },
+  "Jesperflodin's Repo": {
+    "packages": "https://jesperflodin1.github.io/Packages.bz2",
+    "url": "https://jesperflodin1.github.io/",
+    "download": "https://jesperflodin1.github.io/"
+  },
+  "Wh0ba\u2019s Repo": {
+    "packages": "https://wh0ba.github.io/repo/Packages.bz2",
+    "url": "https://wh0ba.github.io/repo/",
+    "download": "https://wh0ba.github.io/repo/"
+  },
+  "Hiko\u2019s Repo": {
+    "packages": "https://hikohub.github.io/Packages.bz2",
+    "url": "https://hikohub.github.io/",
+    "download": "https://hikohub.github.io/"
+  },
+  "GMoran Beta Software": {
+    "packages": "http://gmoran.me/repo/Packages.bz2",
+    "url": "http://gmoran.me/repo/",
+    "download": "http://gmoran.me/repo/"
+  },
+  "arcetera's repo": {
+    "packages": "https://arcetera.github.io/Packages.bz2",
+    "url": "https://arcetera.github.io/",
+    "download": "https://arcetera.github.io/"
+  },
+  "PINPAL's Repo": {
+    "packages": "https://pinpal.github.io/Packages.bz2",
+    "url": "https://pinpal.github.io/",
+    "download": "https://pinpal.github.io/"
+  },
+  "the casle's beta repo": {
+    "packages": "https://the-casle.github.io/cydia/Packages.bz2",
+    "url": "https://the-casle.github.io/cydia/",
+    "download": "https://the-casle.github.io/cydia/"
+  },
+  "iDiddy's Repo": {
+    "packages": "https://ididdy.github.io/Packages.bz2",
+    "url": "https://ididdy.github.io/",
+    "download": "https://ididdy.github.io/"
+  },
+  "saj0vie Repo": {
+    "packages": "https://saj0vie.github.io/Packages.bz2",
+    "url": "https://saj0vie.github.io/",
+    "download": "https://saj0vie.github.io/"
+  },
+  "BandarHelal Repo": {
+    "packages": "https://bandarhl.github.io/Packages.bz2",
+    "url": "https://bandarhl.github.io/",
+    "download": "https://bandarhl.github.io/"
+  },
+  "jacc's Repo": {
+    "packages": "https://apt.lafond.dev/Packages.bz2",
+    "url": "https://apt.lafond.dev/",
+    "download": "https://apt.lafond.dev/"
+  },
+  "sirapex repo": {
+    "packages": "https://sirapex.github.io/Packages.bz2",
+    "url": "https://sirapex.github.io/",
+    "download": "https://sirapex.github.io/"
+  },
+  "Geop's Repo": {
+    "packages": "https://repo.geopjr.xyz/Packages.bz2",
+    "url": "https://repo.geopjr.xyz/",
+    "download": "https://repo.geopjr.xyz/"
+  },
+  "beanamonster's repo": {
+    "packages": "https://beanamonster.github.io/parallax/Packages.bz2",
+    "url": "https://beanamonster.github.io/parallax/",
+    "download": "https://beanamonster.github.io/parallax/"
+  },
+  "Lint's Repository ": {
+    "packages": "https://lint.github.io/repo/Packages.bz2",
+    "url": "https://lint.github.io/repo/",
+    "download": "https://lint.github.io/repo/"
+  },
+  "Bruno Andrade's Repo": {
+    "packages": "https://brunonfl.github.io/Packages.bz2",
+    "url": "https://brunonfl.github.io/",
+    "download": "https://brunonfl.github.io/"
+  },
+  "julioverne's Repo": {
+    "packages": "https://julioverne.github.io/Packages.bz2",
+    "url": "https://julioverne.github.io/",
+    "download": "https://julioverne.github.io/"
+  },
+  "kfur Repo": {
+    "packages": "https://kfur.github.io/Packages.bz2",
+    "url": "https://kfur.github.io/",
+    "download": "https://kfur.github.io/"
+  },
+  "NSCake \ud83e\uddc1": {
+    "packages": "https://nscake.github.io/Packages.bz2",
+    "url": "https://nscake.github.io/",
+    "download": "https://nscake.github.io/"
+  },
+  "Team CoolApple's Repo": {
+    "packages": "https://teamcoolapple.github.io/Packages.bz2",
+    "url": "https://teamcoolapple.github.io/",
+    "download": "https://teamcoolapple.github.io/"
+  },
+  "Kotyan Cydia Repo": {
+    "packages": "https://kotyanlife.info/cydiarepo/Packages.bz2",
+    "url": "https://kotyanlife.info/cydiarepo/",
+    "download": "https://kotyanlife.info/cydiarepo/"
+  },
+  "biD3V's Repo": {
+    "packages": "https://bid3v.github.io/repo/Packages.bz2",
+    "url": "https://bid3v.github.io/repo/",
+    "download": "https://bid3v.github.io/repo/"
+  },
+  "LuMartti's Repo": {
+    "packages": "https://lumartti.github.io/Packages.bz2",
+    "url": "https://lumartti.github.io/",
+    "download": "https://lumartti.github.io/"
+  },
+  "Mologie": {
+    "packages": "https://mologie.github.io/repo/Packages.bz2",
+    "url": "https://mologie.github.io/repo/",
+    "download": "https://mologie.github.io/repo/"
+  },
+  "Stable Auxilium Repo": {
+    "packages": "https://auxilium-development.github.io/repo/Packages.bz2",
+    "url": "https://auxilium-development.github.io/repo/",
+    "download": "https://auxilium-development.github.io/repo/"
+  },
+  "iOSHacker": {
+    "packages": "https://ioshacker.github.io/Packages.bz2",
+    "url": "https://ioshacker.github.io/",
+    "download": "https://ioshacker.github.io/"
+  },
+  "Sarim's Cydia Repo": {
+    "packages": "https://sarim.github.io/cydia/Packages.bz2",
+    "url": "https://sarim.github.io/cydia/",
+    "download": "https://sarim.github.io/cydia/"
+  },
+  "Nrepo": {
+    "packages": "https://nrepo.github.io/Packages.bz2",
+    "url": "https://nrepo.github.io/",
+    "download": "https://nrepo.github.io/"
+  },
+  "Polyphian": {
+    "packages": "https://polyphian.github.io/repo/Packages.bz2",
+    "url": "https://polyphian.github.io/repo/",
+    "download": "https://polyphian.github.io/repo/"
+  },
+  "fidele007 Repo": {
+    "packages": "https://fidele007.github.io/Packages.bz2",
+    "url": "https://fidele007.github.io/",
+    "download": "https://fidele007.github.io/"
+  },
+  "Samplasion's Repo": {
+    "packages": "https://repo.samplasion.js.org/Packages.bz2",
+    "url": "https://repo.samplasion.js.org/",
+    "download": "https://repo.samplasion.js.org/"
+  },
+  "Tian": {
+    "packages": "https://christian-louria.github.io/Packages.bz2",
+    "url": "https://christian-louria.github.io/",
+    "download": "https://christian-louria.github.io/"
+  },
+  "Chariz": {
+    "packages": "https://repo.chariz.com/Packages.bz2",
+    "url": "https://repo.chariz.com/",
+    "download": "https://repo.chariz.com/"
+  },
+  "CodeSquads Beta Repo": {
+    "packages": "https://codesquad-beta.github.io/cydia/Packages.bz2",
+    "url": "https://codesquad-beta.github.io/cydia/",
+    "download": "https://codesquad-beta.github.io/cydia/"
+  },
+  "MARYEL1": {
+    "packages": "https://maryel1.github.io/Packages.bz2",
+    "url": "https://maryel1.github.io/",
+    "download": "https://maryel1.github.io/"
+  },
+  "Amriel Repo": {
+    "packages": "https://repo.amriel.com/Packages.bz2",
+    "url": "https://repo.amriel.com/",
+    "download": "https://repo.amriel.com/"
+  },
+  "ichitaso repository": {
+    "packages": "https://ichitaso.com/apt/Packages.bz2",
+    "url": "https://ichitaso.com/apt/",
+    "download": "https://ichitaso.com/apt/"
+  },
+  "NathanW's Repo": {
+    "packages": "https://nathanwhit.github.io/repo/Packages.bz2",
+    "url": "https://nathanwhit.github.io/repo/",
+    "download": "https://nathanwhit.github.io/repo/"
+  },
+  "The Reedpo": {
+    "packages": "https://cydia.r333d.com/Packages.bz2",
+    "url": "https://cydia.r333d.com/",
+    "download": "https://cydia.r333d.com/"
+  },
+  "Rishanan's Repo": {
+    "packages": "https://rishanan.github.io/Packages.bz2",
+    "url": "https://rishanan.github.io/",
+    "download": "https://rishanan.github.io/"
+  },
+  "AnonymousX": {
+    "packages": "https://anonymousxiosdev.github.io/repo/Packages.bz2",
+    "url": "https://anonymousxiosdev.github.io/repo/",
+    "download": "https://anonymousxiosdev.github.io/repo/"
+  },
+  "Ninji's Repo": {
+    "packages": "https://cydia.wuffs.org/Packages.bz2",
+    "url": "https://cydia.wuffs.org/",
+    "download": "https://cydia.wuffs.org/"
+  },
+  "rainwolf's beta repo": {
+    "packages": "https://submanifold.be/cydia/Packages.bz2",
+    "url": "https://submanifold.be/cydia/",
+    "download": "https://submanifold.be/cydia/"
+  },
+  "AppTapp Beta Repository": {
+    "packages": "https://beta.apptapp.me/Packages.bz2",
+    "url": "https://beta.apptapp.me/",
+    "download": "https://beta.apptapp.me/"
+  },
+  "TheComputerWhisperer's Repo": {
+    "packages": "https://legitcomputerwhisperer.github.io/Packages.bz2",
+    "url": "https://legitcomputerwhisperer.github.io/",
+    "download": "https://legitcomputerwhisperer.github.io/"
+  },
+  "Jonas Gessner's Repo": {
+    "packages": "https://j-gessner.de/repo/Packages.bz2",
+    "url": "https://j-gessner.de/repo/",
+    "download": "https://j-gessner.de/repo/"
+  },
+  "ZezBlog Repo": {
+    "packages": "https://yazeedot.github.io/Packages.bz2",
+    "url": "https://yazeedot.github.io/",
+    "download": "https://yazeedot.github.io/"
+  },
+  "UD-Team's official repo": {
+    "packages": "https://ud-team.github.io/repo/Packages.bz2",
+    "url": "https://ud-team.github.io/repo/",
+    "download": "https://ud-team.github.io/repo/"
+  },
+  "AdventureOwl Repo": {
+    "packages": "https://adventureowl.github.io/Packages.bz2",
+    "url": "https://adventureowl.github.io/",
+    "download": "https://adventureowl.github.io/"
+  },
+  "HQH_Repo": {
+    "packages": "https://hqhrepo.github.io/Packages.bz2",
+    "url": "https://hqhrepo.github.io/",
+    "download": "https://hqhrepo.github.io/"
+  },
+  "JunesiPhone": {
+    "packages": "http://junesiphone.com/supersecret/Packages.bz2",
+    "url": "http://junesiphone.com/supersecret/",
+    "download": "http://junesiphone.com/supersecret/"
+  },
+  "kister.net repo": {
+    "packages": "https://kister.net/cydia/Packages.bz2",
+    "url": "https://kister.net/cydia/",
+    "download": "https://kister.net/cydia/"
+  },
+  "dongo.pro": {
+    "packages": "https://repo.dongo.pro/Packages.bz2",
+    "url": "https://repo.dongo.pro/",
+    "download": "https://repo.dongo.pro/"
+  },
+  "Froztz Repo": {
+    "packages": "https://froztz.gitlab.io/cydia/Packages.bz2",
+    "url": "https://froztz.gitlab.io/cydia/",
+    "download": "https://froztz.gitlab.io/cydia/"
+  },
+  "joedj's beta repo": {
+    "packages": "https://cydia.joedj.net/Packages.bz2",
+    "url": "https://cydia.joedj.net/",
+    "download": "https://cydia.joedj.net/"
+  },
+  "iPAWiND": {
+    "packages": "https://apt.ipawind.com/Packages.bz2",
+    "url": "https://apt.ipawind.com/",
+    "download": "https://apt.ipawind.com/"
+  },
+  "krit's repo": {
+    "packages": "https://repo.kritanta.me/Packages.bz2",
+    "url": "https://repo.kritanta.me/",
+    "download": "https://repo.kritanta.me/"
+  },
+  "http:kjcracks.github.io": {
+    "packages": "https://kjcracks.github.io/repo/Packages.bz2",
+    "url": "https://kjcracks.github.io/repo/",
+    "download": "https://kjcracks.github.io/repo/"
+  },
+  "Ntdark": {
+    "packages": "https://nikostito.github.io/NtdarkDebs/Packages.bz2",
+    "url": "https://nikostito.github.io/NtdarkDebs/",
+    "download": "https://nikostito.github.io/NtdarkDebs/"
+  },
+  "Maxwell Dausch's Repo": {
+    "packages": "https://repo.daus.ch/Packages.bz2",
+    "url": "https://repo.daus.ch/",
+    "download": "https://repo.daus.ch/"
+  },
+  "TheRasPiGuy's Repo": {
+    "packages": "https://TheRasPiGuy.github.io/Packages.bz2",
+    "url": "https://TheRasPiGuy.github.io/",
+    "download": "https://TheRasPiGuy.github.io/"
+  },
+  "LibHooker Beta Repo": {
+    "packages": "https://repo.theodyssey.dev/libhooker-beta/Packages.bz2",
+    "url": "https://repo.theodyssey.dev/libhooker-beta/",
+    "download": "https://repo.theodyssey.dev/libhooker-beta/"
+  },
+  "GalacticDevRepo": {
+    "packages": "https://galactic-dev.github.io/Packages.bz2",
+    "url": "https://galactic-dev.github.io/",
+    "download": "https://galactic-dev.github.io/"
+  },
+  "ChrisOSX's Repo": {
+    "packages": "https://chrisosx.github.io/Packages.bz2",
+    "url": "https://chrisosx.github.io/",
+    "download": "https://chrisosx.github.io/"
+  },
+  "myrepo": {
+    "packages": "https://leroy-b.github.io/home/repo/Packages.bz2",
+    "url": "https://leroy-b.github.io/home/repo/",
+    "download": "https://leroy-b.github.io/home/repo/"
+  },
+  "wolfposd Beta Repository": {
+    "packages": "https://wolfposd.github.io/Packages.bz2",
+    "url": "https://wolfposd.github.io/",
+    "download": "https://wolfposd.github.io/"
+  },
+  "Limneos Repo": {
+    "packages": "http://limneos.net/repo/Packages.bz2",
+    "url": "http://limneos.net/repo/",
+    "download": "http://limneos.net/repo/"
+  },
+  "NESO Security Labs GmbH": {
+    "packages": "https://repo.nesolabs.de/Packages.bz2",
+    "url": "https://repo.nesolabs.de/",
+    "download": "https://repo.nesolabs.de/"
+  },
+  "Hende": {
+    "packages": "https://hende101.github.io/repo/Packages.bz2",
+    "url": "https://hende101.github.io/repo/",
+    "download": "https://hende101.github.io/repo/"
+  },
+  "the casle's public repo": {
+    "packages": "https://the-casle.github.io/public/Packages.bz2",
+    "url": "https://the-casle.github.io/public/",
+    "download": "https://the-casle.github.io/public/"
+  },
+  "c0ldra1n's beta repo": {
+    "packages": "https://c0ldra1n.github.io/repo/beta/Packages.bz2",
+    "url": "https://c0ldra1n.github.io/repo/beta/",
+    "download": "https://c0ldra1n.github.io/repo/beta/"
+  },
+  "XaviTec": {
+    "packages": "https://xavitec.github.io/Packages.bz2",
+    "url": "https://xavitec.github.io/",
+    "download": "https://xavitec.github.io/"
+  },
+  "Orangebananaspy": {
+    "packages": "https://repo.orangebananaspy.com/Packages.bz2",
+    "url": "https://repo.orangebananaspy.com/",
+    "download": "https://repo.orangebananaspy.com/"
+  },
+  "AutoTouch Beta": {
+    "packages": "https://beta.autotouch.net/Packages.bz2",
+    "url": "https://beta.autotouch.net/",
+    "download": "https://beta.autotouch.net/"
+  },
+  "Lisa Braun's repository": {
+    "packages": "https://nyansatan.github.io/apt/Packages.bz2",
+    "url": "https://nyansatan.github.io/apt/",
+    "download": "https://nyansatan.github.io/apt/"
+  },
+  "Ceadd's Repo": {
+    "packages": "https://cydia.ceadd.ca/Packages.bz2",
+    "url": "https://cydia.ceadd.ca/",
+    "download": "https://cydia.ceadd.ca/"
+  },
+  "codeVerine": {
+    "packages": "https://codeverine.gitlab.io/Packages.bz2",
+    "url": "https://codeverine.gitlab.io/",
+    "download": "https://codeverine.gitlab.io/"
+  },
+  "Secura Repo": {
+    "packages": "https://apt.securarepo.io/Packages.bz2",
+    "url": "https://apt.securarepo.io/",
+    "download": "https://apt.securarepo.io/"
+  },
+  "artsyskater Public Repository": {
+    "packages": "https://artsyskater.github.io/Packages.bz2",
+    "url": "https://artsyskater.github.io/",
+    "download": "https://artsyskater.github.io/"
+  },
+  "nyuszika7h's repo": {
+    "packages": "https://repo.cadoth.net/Packages.bz2",
+    "url": "https://repo.cadoth.net/",
+    "download": "https://repo.cadoth.net/"
+  },
+  "ZeeK's Repo": {
+    "packages": "https://zeekforit.github.io/Packages.bz2",
+    "url": "https://zeekforit.github.io/",
+    "download": "https://zeekforit.github.io/"
+  },
+  "Tonyk7's Repo": {
+    "packages": "https://tonyk7.github.io/Packages.bz2",
+    "url": "https://tonyk7.github.io/",
+    "download": "https://tonyk7.github.io/"
+  },
+  "Aatoz's Repository": {
+    "packages": "https://aatoz.github.io/Sileo/Packages.bz2",
+    "url": "https://aatoz.github.io/Sileo/",
+    "download": "https://aatoz.github.io/Sileo/"
+  },
+  "CemreSuler.github.io": {
+    "packages": "https://cemresuler.github.io/Packages.bz2",
+    "url": "https://cemresuler.github.io/",
+    "download": "https://cemresuler.github.io/"
+  },
+  "iakd's Repo": {
+    "packages": "https://iakd.github.io/Packages.bz2",
+    "url": "https://iakd.github.io/",
+    "download": "https://iakd.github.io/"
+  },
+  "CC\u2019s APP ": {
+    "packages": "https://cctgapp.github.io/repo/Packages.bz2",
+    "url": "https://cctgapp.github.io/repo/",
+    "download": "https://cctgapp.github.io/repo/"
+  },
+  "D7my Repo \uf8ff": {
+    "packages": "https://D7my-dev.github.io/repo/Packages.bz2",
+    "url": "https://D7my-dev.github.io/repo/",
+    "download": "https://D7my-dev.github.io/repo/"
+  },
+  "iBitzEdge's Repo": {
+    "packages": "https://i-bitzedge.com/repo/Packages.bz2",
+    "url": "https://i-bitzedge.com/repo/",
+    "download": "https://i-bitzedge.com/repo/"
+  },
+  "Rotanakpiseth Love Sina": {
+    "packages": "https://rotanakpiseth.github.io/Packages.bz2",
+    "url": "https://rotanakpiseth.github.io/",
+    "download": "https://rotanakpiseth.github.io/"
+  },
+  "IPG's Beta Cydia Repo": {
+    "packages": "https://cydia.invoxiplaygames.uk/beta/Packages.bz2",
+    "url": "https://cydia.invoxiplaygames.uk/beta/",
+    "download": "https://cydia.invoxiplaygames.uk/beta/"
+  },
+  "WPlus - Repo": {
+    "packages": "https://mozart409.github.io/repo/Packages.bz2",
+    "url": "https://mozart409.github.io/repo/",
+    "download": "https://mozart409.github.io/repo/"
+  },
+  "POLLAPO's Repo": {
+    "packages": "https://rrnmrnm.github.io/Packages.bz2",
+    "url": "https://rrnmrnm.github.io/",
+    "download": "https://rrnmrnm.github.io/"
+  },
+  "Jontelang - public repo": {
+    "packages": "https://www.jontelang.com/repo/Packages.bz2",
+    "url": "https://www.jontelang.com/repo/",
+    "download": "https://www.jontelang.com/repo/"
+  },
+  "Pikabu Repo": {
+    "packages": "https://pikabucydia.github.io/Packages.bz2",
+    "url": "https://pikabucydia.github.io/",
+    "download": "https://pikabucydia.github.io/"
+  },
+  "Captain Poprocks' Repo": {
+    "packages": "https://captainpoprocks.github.io/Packages.bz2",
+    "url": "https://captainpoprocks.github.io/",
+    "download": "https://captainpoprocks.github.io/"
+  },
+  "Skebby Repo #TEST": {
+    "packages": "https://skebby11.github.io/cydia-repo/Packages.bz2",
+    "url": "https://skebby11.github.io/cydia-repo/",
+    "download": "https://skebby11.github.io/cydia-repo/"
+  },
+  "cemck": {
+    "packages": "https://cemck.github.io/repo/Packages.bz2",
+    "url": "https://cemck.github.io/repo/",
+    "download": "https://cemck.github.io/repo/"
+  },
+  "Daniel Taylor\u2019s Repo": {
+    "packages": "https://danieltaylor.tk/repo/Packages.bz2",
+    "url": "https://danieltaylor.tk/repo/",
+    "download": "https://danieltaylor.tk/repo/"
+  },
+  "Sectorus Cydia Repo": {
+    "packages": "https://sectorus.github.io/cydia/Packages.bz2",
+    "url": "https://sectorus.github.io/cydia/",
+    "download": "https://sectorus.github.io/cydia/"
+  },
+  "AppTapp Repository": {
+    "packages": "https://apptapp.me/repo/Packages.bz2",
+    "url": "https://apptapp.me/repo/",
+    "download": "https://apptapp.me/repo/"
+  },
+  "Tr1Fecta Repo": {
+    "packages": "https://repo.tr1fecta.co/Packages.bz2",
+    "url": "https://repo.tr1fecta.co/",
+    "download": "https://repo.tr1fecta.co/"
+  },
+  "udevs": {
+    "packages": "https://udevsharold.github.io/repo/Packages.bz2",
+    "url": "https://udevsharold.github.io/repo/",
+    "download": "https://udevsharold.github.io/repo/"
+  },
+  "DirtyBeans (Official)": {
+    "packages": "https://DirtyBeans.github.io/Packages.bz2",
+    "url": "https://DirtyBeans.github.io/",
+    "download": "https://DirtyBeans.github.io/"
+  },
+  "ianne": {
+    "packages": "https://MarcoIanne.github.io/Packages.bz2",
+    "url": "https://MarcoIanne.github.io/",
+    "download": "https://MarcoIanne.github.io/"
+  },
+  "Fay.io Dev": {
+    "packages": "https://cydia.fay.io/Packages.bz2",
+    "url": "https://cydia.fay.io/",
+    "download": "https://cydia.fay.io/"
+  },
+  "lilac's Repo": {
+    "packages": "https://lilacvibes.github.io/Packages.bz2",
+    "url": "https://lilacvibes.github.io/",
+    "download": "https://lilacvibes.github.io/"
+  },
+  "Nanerasingh Cydia Repo": {
+    "packages": "https://nanerasingh.github.io/repo/Packages.bz2",
+    "url": "https://nanerasingh.github.io/repo/",
+    "download": "https://nanerasingh.github.io/repo/"
+  },
+  "Degrager": {
+    "packages": "https://degrager.github.io/Packages.bz2",
+    "url": "https://degrager.github.io/",
+    "download": "https://degrager.github.io/"
+  },
+  "Pix' Repo": {
+    "packages": "https://yaypixxo.com/Packages.bz2",
+    "url": "https://yaypixxo.com/",
+    "download": "https://yaypixxo.com/"
+  },
+  "n0mar's Public Repository": {
+    "packages": "https://n0mar.github.io/Packages.bz2",
+    "url": "https://n0mar.github.io/",
+    "download": "https://n0mar.github.io/"
+  },
+  "Shaundegr8's Repo": {
+    "packages": "https://shaundegr8.github.io/Packages.bz2",
+    "url": "https://shaundegr8.github.io/",
+    "download": "https://shaundegr8.github.io/"
+  },
+  "morwi's repo": {
+    "packages": "https://yp261.github.io/repo/Packages.bz2",
+    "url": "https://yp261.github.io/repo/",
+    "download": "https://yp261.github.io/repo/"
+  },
+  "Kanam's Repo": {
+    "packages": "https://kanam.me/repo/Packages.bz2",
+    "url": "https://kanam.me/repo/",
+    "download": "https://kanam.me/repo/"
+  },
+  "Menushka's Repo": {
+    "packages": "https://repo.menushka.ca/Packages.bz2",
+    "url": "https://repo.menushka.ca/",
+    "download": "https://repo.menushka.ca/"
+  },
+  "team Kodi": {
+    "packages": "https://mirrors.kodi.tv/apt/ios/Packages.bz2",
+    "url": "https://mirrors.kodi.tv/apt/ios/",
+    "download": "https://mirrors.kodi.tv/apt/ios/"
+  },
+  "Amethyl Repo": {
+    "packages": "https://amethyl.github.io/repo/Packages.bz2",
+    "url": "https://amethyl.github.io/repo/",
+    "download": "https://amethyl.github.io/repo/"
+  },
+  "Kurt1277's Repo": {
+    "packages": "https://kurt1277.github.io/Packages.bz2",
+    "url": "https://kurt1277.github.io/",
+    "download": "https://kurt1277.github.io/"
+  },
+  "Antique's Repo": {
+    "packages": "https://antiquedev.github.io/Packages.bz2",
+    "url": "https://antiquedev.github.io/",
+    "download": "https://antiquedev.github.io/"
+  },
+  "yo.bur": {
+    "packages": "https://repo.yobur.xyz/Packages.bz2",
+    "url": "https://repo.yobur.xyz/",
+    "download": "https://repo.yobur.xyz/"
+  },
+  "Giulio Smedile's repo": {
+    "packages": "https://bart172.github.io/repo/Packages.bz2",
+    "url": "https://bart172.github.io/repo/",
+    "download": "https://bart172.github.io/repo/"
+  },
+  "rudikelly's repo": {
+    "packages": "https://rudikelly.github.io/repo/Packages.bz2",
+    "url": "https://rudikelly.github.io/repo/",
+    "download": "https://rudikelly.github.io/repo/"
+  },
+  "EmojiPort Fonts Repo": {
+    "packages": "https://vxbakerxv.github.io/repo/Packages.bz2",
+    "url": "https://vxbakerxv.github.io/repo/",
+    "download": "https://vxbakerxv.github.io/repo/"
+  },
+  "Aqua Packages": {
+    "packages": "https://bluetr00p.github.io/repo/Packages.bz2",
+    "url": "https://bluetr00p.github.io/repo/",
+    "download": "https://bluetr00p.github.io/repo/"
+  },
+  "William Muff's Repo": {
+    "packages": "https://williammuff.github.io/repo/Packages.bz2",
+    "url": "https://williammuff.github.io/repo/",
+    "download": "https://williammuff.github.io/repo/"
+  },
+  "Skebby Repo": {
+    "packages": "https://www.sebastianoriva.it/repo/Packages.bz2",
+    "url": "https://www.sebastianoriva.it/repo/",
+    "download": "https://www.sebastianoriva.it/repo/"
+  },
+  "Noeliel Beta  DEV": {
+    "packages": "https://noeliel.com/repo/Packages.bz2",
+    "url": "https://noeliel.com/repo/",
+    "download": "https://noeliel.com/repo/"
+  },
+  "ToxicAppl3 INSDC. Repository": {
+    "packages": "https://toxicappl3inc.github.io/repo/Packages.bz2",
+    "url": "https://toxicappl3inc.github.io/repo/",
+    "download": "https://toxicappl3inc.github.io/repo/"
+  },
+  "Mighty Merdude Repo": {
+    "packages": "https://mightymerdude.github.io/Merdude.github.io/Packages.bz2",
+    "url": "https://mightymerdude.github.io/Merdude.github.io/",
+    "download": "https://mightymerdude.github.io/Merdude.github.io/"
+  },
+  "Mootjeuh's Repository": {
+    "packages": "http://apt.mootjeuh.com/Packages.bz2",
+    "url": "http://apt.mootjeuh.com/",
+    "download": "http://apt.mootjeuh.com/"
+  },
+  "OpenDebs Repository": {
+    "packages": "https://repo.opendebs.com/Packages.bz2",
+    "url": "https://repo.opendebs.com/",
+    "download": "https://repo.opendebs.com/"
+  },
+  "Jorge Alves": {
+    "packages": "https://jordao-net.com/repo/Packages.bz2",
+    "url": "https://jordao-net.com/repo/",
+    "download": "https://jordao-net.com/repo/"
+  },
+  "Tweakings Public Repo": {
+    "packages": "https://tweakings.github.io/Packages.bz2",
+    "url": "https://tweakings.github.io/",
+    "download": "https://tweakings.github.io/"
+  },
+  " Classicxii's Repository": {
+    "packages": "https://classicxiirepo.github.io/Packages.bz2",
+    "url": "https://classicxiirepo.github.io/",
+    "download": "https://classicxiirepo.github.io/"
+  },
+  "Johnzaro's Perfect Repo": {
+    "packages": "https://johnzaro.github.io/cydia/Packages.bz2",
+    "url": "https://johnzaro.github.io/cydia/",
+    "download": "https://johnzaro.github.io/cydia/"
+  },
+  "Chimera Repo": {
+    "packages": "https://repo.chimera.sh/Packages.bz2",
+    "url": "https://repo.chimera.sh/",
+    "download": "https://repo.chimera.sh/"
+  },
+  "Sn Repo": {
+    "packages": "https://sn50repo.github.io/Packages.bz2",
+    "url": "https://sn50repo.github.io/",
+    "download": "https://sn50repo.github.io/"
+  },
+  "DozeNZB's Repo": {
+    "packages": "https://repo.dozenzb.com/Packages.bz2",
+    "url": "https://repo.dozenzb.com/",
+    "download": "https://repo.dozenzb.com/"
+  },
+  "nicho1asdev": {
+    "packages": "https://nicho1asdev.github.io/repo/Packages.bz2",
+    "url": "https://nicho1asdev.github.io/repo/",
+    "download": "https://nicho1asdev.github.io/repo/"
+  },
+  "NHFTD Repo": {
+    "packages": "https://nothereforthedong.github.io/Packages.bz2",
+    "url": "https://nothereforthedong.github.io/",
+    "download": "https://nothereforthedong.github.io/"
+  },
+  "Michel Barnich": {
+    "packages": "https://repo.michelbarnich.com/Packages.bz2",
+    "url": "https://repo.michelbarnich.com/",
+    "download": "https://repo.michelbarnich.com/"
+  },
+  "PixelFireDev": {
+    "packages": "https://pixelfiredev.com/repo/Packages.bz2",
+    "url": "https://pixelfiredev.com/repo/",
+    "download": "https://pixelfiredev.com/repo/"
+  },
+  "MPG13's Cydia Repo": {
+    "packages": "https://micahpgomez.dev/repo/Packages.bz2",
+    "url": "https://micahpgomez.dev/repo/",
+    "download": "https://micahpgomez.dev/repo/"
+  },
+  "mrvayga Beta Repo": {
+    "packages": "https://mrvaygaflex.github.io/Packages.bz2",
+    "url": "https://mrvaygaflex.github.io/",
+    "download": "https://mrvaygaflex.github.io/"
+  },
+  "Sn0wCooder repo": {
+    "packages": "https://sn0wcooder.github.io/Packages.bz2",
+    "url": "https://sn0wcooder.github.io/",
+    "download": "https://sn0wcooder.github.io/"
+  },
+  "Cammm": {
+    "packages": "https://cammmpw.github.io/repo/Packages.bz2",
+    "url": "https://cammmpw.github.io/repo/",
+    "download": "https://cammmpw.github.io/repo/"
+  },
+  "Cydia Chimera": {
+    "packages": "https://cydiamy.github.io/1.0.4/Packages.bz2",
+    "url": "https://cydiamy.github.io/1.0.4/",
+    "download": "https://cydiamy.github.io/1.0.4/"
+  },
+  "Frozen Penguin's Repo": {
+    "packages": "https://frozen-penguin.github.io/Packages.bz2",
+    "url": "https://frozen-penguin.github.io/",
+    "download": "https://frozen-penguin.github.io/"
+  },
+  "Chewmieser's Repo": {
+    "packages": "https://apt.steverolfe.com/Packages.bz2",
+    "url": "https://apt.steverolfe.com/",
+    "download": "https://apt.steverolfe.com/"
+  },
+  "manolz": {
+    "packages": "https://manolzrepo.github.io/ios/Packages.bz2",
+    "url": "https://manolzrepo.github.io/ios/",
+    "download": "https://manolzrepo.github.io/ios/"
+  },
+  "Logandev_": {
+    "packages": "https://LoganMD.github.io/repo/Packages.bz2",
+    "url": "https://LoganMD.github.io/repo/",
+    "download": "https://LoganMD.github.io/repo/"
+  },
+  "ReddestDream's Repo": {
+    "packages": "https://reddestdream.github.io/Packages.bz2",
+    "url": "https://reddestdream.github.io/",
+    "download": "https://reddestdream.github.io/"
+  },
+  "PlenixClash": {
+    "packages": "https://stavros.xyz/cydia/Packages.bz2",
+    "url": "https://stavros.xyz/cydia/",
+    "download": "https://stavros.xyz/cydia/"
+  },
+  "luharepo": {
+    "packages": "https://luharepo.github.io/repo/Packages.bz2",
+    "url": "https://luharepo.github.io/repo/",
+    "download": "https://luharepo.github.io/repo/"
+  },
+  "repo de seatanners": {
+    "packages": "https://seatanners.github.io/repo/Packages.bz2",
+    "url": "https://seatanners.github.io/repo/",
+    "download": "https://seatanners.github.io/repo/"
+  },
+  "busmanl30's Repo": {
+    "packages": "https://busmanl30.github.io/Packages.bz2",
+    "url": "https://busmanl30.github.io/",
+    "download": "https://busmanl30.github.io/"
+  },
+  "DGh0st": {
+    "packages": "https://dgh0st.github.io/Packages.bz2",
+    "url": "https://dgh0st.github.io/",
+    "download": "https://dgh0st.github.io/"
+  },
+  "Nathan\u2019s Repo": {
+    "packages": "https://nathanaccidentally.github.io/Packages.bz2",
+    "url": "https://nathanaccidentally.github.io/",
+    "download": "https://nathanaccidentally.github.io/"
+  },
+  "Mercury": {
+    "packages": "https://mercuryiosdev.github.io/Packages.bz2",
+    "url": "https://mercuryiosdev.github.io/",
+    "download": "https://mercuryiosdev.github.io/"
+  },
+  "Packetfahrer Repo": {
+    "packages": "https://packetfahrer.github.io/Packages.bz2",
+    "url": "https://packetfahrer.github.io/",
+    "download": "https://packetfahrer.github.io/"
+  },
+  "NIN0's Repo": {
+    "packages": "https://n-i-n-0.github.io/repo/Packages.bz2",
+    "url": "https://n-i-n-0.github.io/repo/",
+    "download": "https://n-i-n-0.github.io/repo/"
+  },
+  "Kunderscore's Repo": {
+    "packages": "https://kunderscore.gitlab.io/repo/Packages.bz2",
+    "url": "https://kunderscore.gitlab.io/repo/",
+    "download": "https://kunderscore.gitlab.io/repo/"
+  },
+  "Ken Harder's Repo": {
+    "packages": "https://kharder69.github.io/Repo/Packages.bz2",
+    "url": "https://kharder69.github.io/Repo/",
+    "download": "https://kharder69.github.io/Repo/"
+  },
+  "Artillect's Repo": {
+    "packages": "https://artillect.github.io/repo/Packages.bz2",
+    "url": "https://artillect.github.io/repo/",
+    "download": "https://artillect.github.io/repo/"
+  },
+  "Elias' Public Repo": {
+    "packages": "https://elor7824.github.io/Packages.bz2",
+    "url": "https://elor7824.github.io/",
+    "download": "https://elor7824.github.io/"
+  },
+  "iluwQaa's Repo": {
+    "packages": "https://iluwqaa.github.io/Packages.bz2",
+    "url": "https://iluwqaa.github.io/",
+    "download": "https://iluwqaa.github.io/"
+  },
+  "Official dtathemes Repo": {
+    "packages": "https://cydia.dtathemes.com/repo/Packages.bz2",
+    "url": "https://cydia.dtathemes.com/repo/",
+    "download": "https://cydia.dtathemes.com/repo/"
+  },
+  "Wiety's beta repository": {
+    "packages": "https://wiety.github.io/cydia/Packages.bz2",
+    "url": "https://wiety.github.io/cydia/",
+    "download": "https://wiety.github.io/cydia/"
+  },
+  "WolfPriv": {
+    "packages": "https://wolftonix.com/cydia/Packages.bz2",
+    "url": "https://wolftonix.com/cydia/",
+    "download": "https://wolftonix.com/cydia/"
+  },
+  "Capt Inc": {
+    "packages": "https://captinc.me/Packages.bz2",
+    "url": "https://captinc.me/",
+    "download": "https://captinc.me/"
+  },
+  "hieplpvip": {
+    "packages": "https://hieplpvip.github.io/cydia/Packages.bz2",
+    "url": "https://hieplpvip.github.io/cydia/",
+    "download": "https://hieplpvip.github.io/cydia/"
+  },
+  "c1d3r's repo": {
+    "packages": "https://c1d3r.com/beta/Packages.bz2",
+    "url": "https://c1d3r.com/beta/",
+    "download": "https://c1d3r.com/beta/"
+  },
+  "AidsMcGhee": {
+    "packages": "https://jakeai.github.io/Packages.bz2",
+    "url": "https://jakeai.github.io/",
+    "download": "https://jakeai.github.io/"
+  },
+  "Sammy's Repo": {
+    "packages": "https://sammydentino.github.io/repo/Packages.bz2",
+    "url": "https://sammydentino.github.io/repo/",
+    "download": "https://sammydentino.github.io/repo/"
+  },
+  "joker2gun": {
+    "packages": "https://joker2gun.github.io/Packages.bz2",
+    "url": "https://joker2gun.github.io/",
+    "download": "https://joker2gun.github.io/"
+  },
+  "Ramen Repo": {
+    "packages": "https://ramenrepo.github.io/Packages.bz2",
+    "url": "https://ramenrepo.github.io/",
+    "download": "https://ramenrepo.github.io/"
+  },
+  "MinxterYT's Repo": {
+    "packages": "https://repo.minxteryt.xyz/Packages.bz2",
+    "url": "https://repo.minxteryt.xyz/",
+    "download": "https://repo.minxteryt.xyz/"
+  },
+  "Ayden Panhuyzen's Repo [Archive]": {
+    "packages": "https://repo.ayden.dev/Packages.bz2",
+    "url": "https://repo.ayden.dev/",
+    "download": "https://repo.ayden.dev/"
+  },
+  "Hamza's Repo": {
+    "packages": "https://zzhamzazz.github.io/Packages.bz2",
+    "url": "https://zzhamzazz.github.io/",
+    "download": "https://zzhamzazz.github.io/"
+  },
+  "iDevice Hacked Repo": {
+    "packages": "https://idevicehacked.github.io/Packages.bz2",
+    "url": "https://idevicehacked.github.io/",
+    "download": "https://idevicehacked.github.io/"
+  },
+  "rpetrich repo": {
+    "packages": "https://booleanmagic.com/repo/Packages.bz2",
+    "url": "https://booleanmagic.com/repo/",
+    "download": "https://booleanmagic.com/repo/"
+  },
+  "Samplasion's Repository": {
+    "packages": "https://samplasion.github.io/cydia/Packages.bz2",
+    "url": "https://samplasion.github.io/cydia/",
+    "download": "https://samplasion.github.io/cydia/"
+  },
+  "Dimitar Nestorov": {
+    "packages": "https://dimitarnestorov.com/Packages.bz2",
+    "url": "https://dimitarnestorov.com/",
+    "download": "https://dimitarnestorov.com/"
+  },
+  "PPSSPP Repo": {
+    "packages": "https://cydia.ppsspp.org/Packages.bz2",
+    "url": "https://cydia.ppsspp.org/",
+    "download": "https://cydia.ppsspp.org/"
+  },
+  "DJHartleyRepo": {
+    "packages": "https://DJHartley.github.io/Packages.bz2",
+    "url": "https://DJHartley.github.io/",
+    "download": "https://DJHartley.github.io/"
+  },
+  "Nick's Repo": {
+    "packages": "https://repo.nickthompson.guru/Packages.bz2",
+    "url": "https://repo.nickthompson.guru/",
+    "download": "https://repo.nickthompson.guru/"
+  },
+  "JoshTV": {
+    "packages": "https://joshtv.net/repo/Packages.bz2",
+    "url": "https://joshtv.net/repo/",
+    "download": "https://joshtv.net/repo/"
+  },
+  "opa334's Repo": {
+    "packages": "https://opa334.github.io/Packages.bz2",
+    "url": "https://opa334.github.io/",
+    "download": "https://opa334.github.io/"
+  },
+  "Skylerk99": {
+    "packages": "https://skylerk99.github.io/Packages.bz2",
+    "url": "https://skylerk99.github.io/",
+    "download": "https://skylerk99.github.io/"
+  },
+  "CoolBooter Repo": {
+    "packages": "https://coolbooter.com/Packages.bz2",
+    "url": "https://coolbooter.com/",
+    "download": "https://coolbooter.com/"
+  },
+  "bqrichards's Repo": {
+    "packages": "https://bqrichards.github.io/repo/Packages.bz2",
+    "url": "https://bqrichards.github.io/repo/",
+    "download": "https://bqrichards.github.io/repo/"
+  },
+  "iGG": {
+    "packages": "https://aquawu.github.io/igg/Packages.bz2",
+    "url": "https://aquawu.github.io/igg/",
+    "download": "https://aquawu.github.io/igg/"
+  },
+  "tyler's repo": {
+    "packages": "https://repo.tylercasson.com/Packages.bz2",
+    "url": "https://repo.tylercasson.com/",
+    "download": "https://repo.tylercasson.com/"
+  },
+  "Shadow's repo": {
+    "packages": "https://shadowstonk1.github.io/repo/Packages.bz2",
+    "url": "https://shadowstonk1.github.io/repo/",
+    "download": "https://shadowstonk1.github.io/repo/"
+  },
+  "Halo_Michael's Cydia Repo": {
+    "packages": "https://halo-michael.github.io/repo/Packages.bz2",
+    "url": "https://halo-michael.github.io/repo/",
+    "download": "https://halo-michael.github.io/repo/"
+  },
+  "Zebra Beta": {
+    "packages": "https://getzbra.com/beta/Packages.bz2",
+    "url": "https://getzbra.com/beta/",
+    "download": "https://getzbra.com/beta/"
+  },
+  "heft johnson": {
+    "packages": "https://heftjohnson.github.io/Packages.bz2",
+    "url": "https://heftjohnson.github.io/",
+    "download": "https://heftjohnson.github.io/"
+  },
+  "YouRepo": {
+    "packages": "https://www.yourepo.com/Packages.bz2",
+    "url": "https://www.yourepo.com/",
+    "download": "https://www.yourepo.com/"
+  },
+  "Zane Helton's Repo": {
+    "packages": "https://zaneh.github.io/repo/Packages.bz2",
+    "url": "https://zaneh.github.io/repo/",
+    "download": "https://zaneh.github.io/repo/"
+  },
+  "ALHG Safe Team Repo": {
+    "packages": "https://ALHGTeam.github.io/repo/Packages.bz2",
+    "url": "https://ALHGTeam.github.io/repo/",
+    "download": "https://ALHGTeam.github.io/repo/"
+  },
+  "Tony Ciroussel repo": {
+    "packages": "https://akebu.github.io/cydia/Packages.bz2",
+    "url": "https://akebu.github.io/cydia/",
+    "download": "https://akebu.github.io/cydia/"
+  },
+  "dansaDisco's repo": {
+    "packages": "https://dansa.github.io/Packages.bz2",
+    "url": "https://dansa.github.io/",
+    "download": "https://dansa.github.io/"
+  },
+  "Redentic's Repo": {
+    "packages": "https://redentic.dev/Packages.bz2",
+    "url": "https://redentic.dev/",
+    "download": "https://redentic.dev/"
+  },
+  "AppSec-Labs.com": {
+    "packages": "https://appsec-labs.com/cydia/Packages.bz2",
+    "url": "https://appsec-labs.com/cydia/",
+    "download": "https://appsec-labs.com/cydia/"
+  },
+  "D4ni's Repo": {
+    "packages": "https://repo.d4ni.nl/Packages.bz2",
+    "url": "https://repo.d4ni.nl/",
+    "download": "https://repo.d4ni.nl/"
+  },
+  "Joey GM's repo": {
+    "packages": "https://joey-gm.github.io/Packages.bz2",
+    "url": "https://joey-gm.github.io/",
+    "download": "https://joey-gm.github.io/"
+  },
+  "shiftcmdk": {
+    "packages": "https://shiftcmdk.github.io/repo/Packages.bz2",
+    "url": "https://shiftcmdk.github.io/repo/",
+    "download": "https://shiftcmdk.github.io/repo/"
+  },
+  "Jarxy Repo": {
+    "packages": "https://jarxy.github.io/Packages.bz2",
+    "url": "https://jarxy.github.io/",
+    "download": "https://jarxy.github.io/"
+  },
+  "Skylar's APT Repo": {
+    "packages": "https://apt.skylarmccauley.xyz/Packages.bz2",
+    "url": "https://apt.skylarmccauley.xyz/",
+    "download": "https://apt.skylarmccauley.xyz/"
+  },
+  "quiprr": {
+    "packages": "https://repo.quiprr.dev/Packages.bz2",
+    "url": "https://repo.quiprr.dev/",
+    "download": "https://repo.quiprr.dev/"
+  },
+  "BeMyGuest Beta": {
+    "packages": "https://useignition.github.io/BeMyGuest/Packages.bz2",
+    "url": "https://useignition.github.io/BeMyGuest/",
+    "download": "https://useignition.github.io/BeMyGuest/"
+  },
+  "Squiddy's Repo": {
+    "packages": "https://repo.squidkingdom.com/Packages.bz2",
+    "url": "https://repo.squidkingdom.com/",
+    "download": "https://repo.squidkingdom.com/"
+  },
+  "iamjamieq's Theme Repo": {
+    "packages": "https://iamjamieq.github.io/repo/Packages.bz2",
+    "url": "https://iamjamieq.github.io/repo/",
+    "download": "https://iamjamieq.github.io/repo/"
+  },
+  "IArrays": {
+    "packages": "https://www.iarrays.com/apt/Packages.bz2",
+    "url": "https://www.iarrays.com/apt/",
+    "download": "https://www.iarrays.com/apt/"
+  },
+  "Mrmad": {
+    "packages": "https://mrmadjb.github.io/Packages.bz2",
+    "url": "https://mrmadjb.github.io/",
+    "download": "https://mrmadjb.github.io/"
+  },
+  "eswick's Repo": {
+    "packages": "https://eswick.github.io/Packages.bz2",
+    "url": "https://eswick.github.io/",
+    "download": "https://eswick.github.io/"
+  },
+  "tateu's repo": {
+    "packages": "http://tateu.net/repo/Packages.bz2",
+    "url": "http://tateu.net/repo/",
+    "download": "http://tateu.net/repo/"
+  },
+  "Tweakality's Repo": {
+    "packages": "https://tweakality.github.io/repo/Packages.bz2",
+    "url": "https://tweakality.github.io/repo/",
+    "download": "https://tweakality.github.io/repo/"
+  },
+  "Selant's Repo": {
+    "packages": "https://iselant.github.io/repo/Packages.bz2",
+    "url": "https://iselant.github.io/repo/",
+    "download": "https://iselant.github.io/repo/"
+  },
+  "BigBoss": {
+    "packages": "http://apt.thebigboss.org/repofiles/cydia/dists/stable/main/binary-iphoneos-arm/Packages.bz2",
+    "url": "http://apt.thebigboss.org/repofiles/cydia/",
+    "download": "http://apt.thebigboss.org/repofiles/cydia/dists/stable/"
+  },
+  "phil-highrez.github.io": {
+    "packages": "https://phil-highrez.github.io/repo/Packages.bz2",
+    "url": "https://phil-highrez.github.io/repo/",
+    "download": "https://phil-highrez.github.io/repo/"
+  },
+  "dbk1ng\u2019s repo": {
+    "packages": "https://dbk1ng.github.io/Packages.bz2",
+    "url": "https://dbk1ng.github.io/",
+    "download": "https://dbk1ng.github.io/"
+  },
+  "Favware": {
+    "packages": "https://favna.github.io/cydia/Packages.bz2",
+    "url": "https://favna.github.io/cydia/",
+    "download": "https://favna.github.io/cydia/"
+  },
+  "Thireus Repository": {
+    "packages": "https://repo.thireus.com/Packages.bz2",
+    "url": "https://repo.thireus.com/",
+    "download": "https://repo.thireus.com/"
+  },
+  "Yusuf's Repository \uf8ff ": {
+    "packages": "https://yusufozgul.github.io/Packages.bz2",
+    "url": "https://yusufozgul.github.io/",
+    "download": "https://yusufozgul.github.io/"
+  },
+  "MatRanc's Repo": {
+    "packages": "https://matranc.github.io/repo/Packages.bz2",
+    "url": "https://matranc.github.io/repo/",
+    "download": "https://matranc.github.io/repo/"
+  },
+  "iCraze's Repo": {
+    "packages": "https://repo.icrazeios.com/Packages.bz2",
+    "url": "https://repo.icrazeios.com/",
+    "download": "https://repo.icrazeios.com/"
+  },
+  "profejuantonio": {
+    "packages": "https://profejuantonio.github.io/Packages.bz2",
+    "url": "https://profejuantonio.github.io/",
+    "download": "https://profejuantonio.github.io/"
+  },
+  "ShadeZepheri Repo": {
+    "packages": "https://shade-zepheri.github.io/Packages.bz2",
+    "url": "https://shade-zepheri.github.io/",
+    "download": "https://shade-zepheri.github.io/"
+  },
+  "cj81499's Cydia Repo": {
+    "packages": "https://cj81499.github.io/repo/Packages.bz2",
+    "url": "https://cj81499.github.io/repo/",
+    "download": "https://cj81499.github.io/repo/"
+  },
+  "kdog0598's Repository": {
+    "packages": "https://kdog0598.github.io/Packages.bz2",
+    "url": "https://kdog0598.github.io/",
+    "download": "https://kdog0598.github.io/"
+  },
+  "othman_tech | \u0639\u062b\u0645\u0627\u0646 \u0627\u0644\u0645\u0637\u064a\u0631\u064a": {
+    "packages": "https://apt.othman.tech/Packages.bz2",
+    "url": "https://apt.othman.tech/",
+    "download": "https://apt.othman.tech/"
+  },
+  "D-Shin`s Source": {
+    "packages": "https://jose905.github.io/Packages.bz2",
+    "url": "https://jose905.github.io/",
+    "download": "https://jose905.github.io/"
+  },
+  "dunkston's repo": {
+    "packages": "https://dunkston.github.io/repo/Packages.bz2",
+    "url": "https://dunkston.github.io/repo/",
+    "download": "https://dunkston.github.io/repo/"
+  },
+  "Delta": {
+    "packages": "https://getdelta.co/Packages.bz2",
+    "url": "https://getdelta.co/",
+    "download": "https://getdelta.co/"
+  },
+  "Rikumi's repo": {
+    "packages": "https://rikumi.github.io/repo/Packages.bz2",
+    "url": "https://rikumi.github.io/repo/",
+    "download": "https://rikumi.github.io/repo/"
+  },
+  "Cameron Katri's Repo": {
+    "packages": "https://cameronkatri.com/Packages.bz2",
+    "url": "https://cameronkatri.com/",
+    "download": "https://cameronkatri.com/"
+  },
+  "jukben's repo ": {
+    "packages": "https://cydia.jukben.cz/Packages.bz2",
+    "url": "https://cydia.jukben.cz/",
+    "download": "https://cydia.jukben.cz/"
+  },
+  "DiatrusTV": {
+    "packages": "https://diatr.us/nito/Packages.bz2",
+    "url": "https://diatr.us/nito/",
+    "download": "https://diatr.us/nito/"
+  },
+  "Evelyn's Collection": {
+    "packages": "https://evynw.github.io/Packages.bz2",
+    "url": "https://evynw.github.io/",
+    "download": "https://evynw.github.io/"
+  },
+  "Miro-PPB's Repo": {
+    "packages": "https://miroppb.com/repo/Packages.bz2",
+    "url": "https://miroppb.com/repo/",
+    "download": "https://miroppb.com/repo/"
+  },
+  "iOS Setups": {
+    "packages": "https://botlove.github.io/Packages.bz2",
+    "url": "https://botlove.github.io/",
+    "download": "https://botlove.github.io/"
+  },
+  "Thenatis": {
+    "packages": "https://thenatis.github.io/repo/Packages.bz2",
+    "url": "https://thenatis.github.io/repo/",
+    "download": "https://thenatis.github.io/repo/"
+  },
+  "Martin Pham Cydia": {
+    "packages": "https://martinpham.gitlab.io/cydia/Packages.bz2",
+    "url": "https://martinpham.gitlab.io/cydia/",
+    "download": "https://martinpham.gitlab.io/cydia/"
+  },
+  "Ivano Bilenchi's Beta Repo": {
+    "packages": "https://ib-soft.net/cydia/beta/Packages.bz2",
+    "url": "https://ib-soft.net/cydia/beta/",
+    "download": "https://ib-soft.net/cydia/beta/"
+  },
+  "The Real Australian's Repo": {
+    "packages": "https://masonpawsey.github.io/Packages.bz2",
+    "url": "https://masonpawsey.github.io/",
+    "download": "https://masonpawsey.github.io/"
+  },
+  "MiRO92": {
+    "packages": "https://miro92.com/repo/Packages.bz2",
+    "url": "https://miro92.com/repo/",
+    "download": "https://miro92.com/repo/"
+  },
+  "MaskMan's Repo": {
+    "packages": "https://maskman007.github.io/pubg_vip/Packages.bz2",
+    "url": "https://maskman007.github.io/pubg_vip/",
+    "download": "https://maskman007.github.io/pubg_vip/"
+  },
+  "San3ar`s Source": {
+    "packages": "https://san3ar.github.io/Packages.bz2",
+    "url": "https://san3ar.github.io/",
+    "download": "https://san3ar.github.io/"
+  },
+  "Haoict Repository": {
+    "packages": "https://haoict.github.io/cydia/Packages.bz2",
+    "url": "https://haoict.github.io/cydia/",
+    "download": "https://haoict.github.io/cydia/"
+  },
+  "0neday's repo": {
+    "packages": "https://0neday.github.io/cydia/Packages.bz2",
+    "url": "https://0neday.github.io/cydia/",
+    "download": "https://0neday.github.io/cydia/"
+  },
+  "Midcoreboot's Repo": {
+    "packages": "https://midcoreboot.github.io/Packages.bz2",
+    "url": "https://midcoreboot.github.io/",
+    "download": "https://midcoreboot.github.io/"
+  },
+  "Mehul\u2019s Repo": {
+    "packages": "https://mehulrao.github.io/Packages.bz2",
+    "url": "https://mehulrao.github.io/",
+    "download": "https://mehulrao.github.io/"
+  },
+  "Cobre's Repo": {
+    "packages": "https://repo.cobre.dev/Packages.bz2",
+    "url": "https://repo.cobre.dev/",
+    "download": "https://repo.cobre.dev/"
+  },
+  "Taskinoz Repo Mirror": {
+    "packages": "https://taskinoz.github.io/repo/Packages.bz2",
+    "url": "https://taskinoz.github.io/repo/",
+    "download": "https://taskinoz.github.io/repo/"
+  },
+  "itsjafer": {
+    "packages": "https://itsjafer.com/repo/Packages.bz2",
+    "url": "https://itsjafer.com/repo/",
+    "download": "https://itsjafer.com/repo/"
+  },
+  "MERONA Repo": {
+    "packages": "https://repo.co.kr/Packages.bz2",
+    "url": "https://repo.co.kr/",
+    "download": "https://repo.co.kr/"
+  },
+  "3omartech": {
+    "packages": "https://3omartech.github.io/Packages.bz2",
+    "url": "https://3omartech.github.io/",
+    "download": "https://3omartech.github.io/"
+  },
+  "Mu": {
+    "packages": "https://zljkevin.github.io/repo/Packages.bz2",
+    "url": "https://zljkevin.github.io/repo/",
+    "download": "https://zljkevin.github.io/repo/"
+  },
+  "ArtikusHG repo": {
+    "packages": "https://artikushg.github.io/Packages.bz2",
+    "url": "https://artikushg.github.io/",
+    "download": "https://artikushg.github.io/"
+  },
+  "Chloeeisoaky's Repo": {
+    "packages": "https://chloeeisoaky.github.io/Packages.bz2",
+    "url": "https://chloeeisoaky.github.io/",
+    "download": "https://chloeeisoaky.github.io/"
+  },
+  "uroboro's repository": {
+    "packages": "https://uroboro.github.io/repo/Packages.bz2",
+    "url": "https://uroboro.github.io/repo/",
+    "download": "https://uroboro.github.io/repo/"
+  },
+  "pixelomer": {
+    "packages": "http://repo.pixelomer.com/Packages.bz2",
+    "url": "http://repo.pixelomer.com/",
+    "download": "http://repo.pixelomer.com/"
+  },
+  "Perry Cucko's Repo": {
+    "packages": "https://perrycucko.github.io/Packages.bz2",
+    "url": "https://perrycucko.github.io/",
+    "download": "https://perrycucko.github.io/"
+  },
+  "Furoso": {
+    "packages": "https://furoso.github.io/Packages.bz2",
+    "url": "https://furoso.github.io/",
+    "download": "https://furoso.github.io/"
+  },
+  "Karen\u3042\u3051\u307f's Repo": {
+    "packages": "https://cydia.akemi.ai/Packages.bz2",
+    "url": "https://cydia.akemi.ai/",
+    "download": "https://cydia.akemi.ai/"
+  },
+  "Mohamed Haneef": {
+    "packages": "https://hanyfu.github.io/Packages.bz2",
+    "url": "https://hanyfu.github.io/",
+    "download": "https://hanyfu.github.io/"
+  },
+  "hAcx Repo": {
+    "packages": "https://hacx.org/repo/Packages.bz2",
+    "url": "https://hacx.org/repo/",
+    "download": "https://hacx.org/repo/"
+  },
+  "Saadat's Repository": {
+    "packages": "https://apt.saadat.dev/Packages.bz2",
+    "url": "https://apt.saadat.dev/",
+    "download": "https://apt.saadat.dev/"
+  },
+  "ElectricEspeon's Beta Repo": {
+    "packages": "https://Smethan.github.io/repo/Packages.bz2",
+    "url": "https://Smethan.github.io/repo/",
+    "download": "https://Smethan.github.io/repo/"
+  },
+  "iCaughtU": {
+    "packages": "https://www.icaughtuapp.com/repo/Packages.bz2",
+    "url": "https://www.icaughtuapp.com/repo/",
+    "download": "https://www.icaughtuapp.com/repo/"
+  },
+  "CokePokes": {
+    "packages": "https://cokepokes.github.io/Packages.bz2",
+    "url": "https://cokepokes.github.io/",
+    "download": "https://cokepokes.github.io/"
+  },
+  "Tweaks.fun": {
+    "packages": "https://ios.tweaks.fun/Packages.bz2",
+    "url": "https://ios.tweaks.fun/",
+    "download": "https://ios.tweaks.fun/"
+  },
+  "TIGI Software": {
+    "packages": "https://tigisoftware.com/cydia/Packages.bz2",
+    "url": "https://tigisoftware.com/cydia/",
+    "download": "https://tigisoftware.com/cydia/"
+  },
+  "Matchstic": {
+    "packages": "https://incendo.ws/repo/Packages.bz2",
+    "url": "https://incendo.ws/repo/",
+    "download": "https://incendo.ws/repo/"
+  },
+  "Teggers Repo": {
+    "packages": "https://extigy.github.io/repo/Packages.bz2",
+    "url": "https://extigy.github.io/repo/",
+    "download": "https://extigy.github.io/repo/"
+  },
+  "sk8r Repo": {
+    "packages": "https://sk8rdev.github.io/Packages.bz2",
+    "url": "https://sk8rdev.github.io/",
+    "download": "https://sk8rdev.github.io/"
+  },
+  "SynnyG_R's repo": {
+    "packages": "https://synnygr.dev/repo/Packages.bz2",
+    "url": "https://synnygr.dev/repo/",
+    "download": "https://synnygr.dev/repo/"
+  },
+  "CaseyCZ": {
+    "packages": "https://caseycz.github.io/repo/Packages.bz2",
+    "url": "https://caseycz.github.io/repo/",
+    "download": "https://caseycz.github.io/repo/"
+  },
+  "S0MECoder\u2019s Repo": {
+    "packages": "https://s0mecoder.github.io/repo/Packages.bz2",
+    "url": "https://s0mecoder.github.io/repo/",
+    "download": "https://s0mecoder.github.io/repo/"
+  },
+  "Monotrix's Repo": {
+    "packages": "https://monotrix.xyz/Packages.bz2",
+    "url": "https://monotrix.xyz/",
+    "download": "https://monotrix.xyz/"
+  },
+  "Redzrex's Repo": {
+    "packages": "https://redzrex.github.io/Packages.bz2",
+    "url": "https://redzrex.github.io/",
+    "download": "https://redzrex.github.io/"
+  },
+  "clawish's Repo": {
+    "packages": "https://clawish.github.io/repo/Packages.bz2",
+    "url": "https://clawish.github.io/repo/",
+    "download": "https://clawish.github.io/repo/"
+  },
+  "Djaovx's Repo": {
+    "packages": "https://djaovx.github.io/repo/Packages.bz2",
+    "url": "https://djaovx.github.io/repo/",
+    "download": "https://djaovx.github.io/repo/"
+  },
+  "p0358": {
+    "packages": "https://repo.p0358.net/Packages.bz2",
+    "url": "https://repo.p0358.net/",
+    "download": "https://repo.p0358.net/"
+  },
+  "MCApollo ": {
+    "packages": "https://mcapollo.github.io/Public/Packages.bz2",
+    "url": "https://mcapollo.github.io/Public/",
+    "download": "https://mcapollo.github.io/Public/"
+  },
+  "Samg_is_a_Ninja's Repo": {
+    "packages": "https://samgisaninja.github.io/Packages.bz2",
+    "url": "https://samgisaninja.github.io/",
+    "download": "https://samgisaninja.github.io/"
+  },
+  "BCR": {
+    "packages": "https://bluecordedranger.github.io/repo/Packages.bz2",
+    "url": "https://bluecordedranger.github.io/repo/",
+    "download": "https://bluecordedranger.github.io/repo/"
+  },
+  "PoomSmart's Repo": {
+    "packages": "https://poomsmart.github.io/repo/Packages.bz2",
+    "url": "https://poomsmart.github.io/repo/",
+    "download": "https://poomsmart.github.io/repo/"
+  },
+  "dReAmNeT Repo": {
+    "packages": "https://repo.dreamnet.at/Packages.bz2",
+    "url": "https://repo.dreamnet.at/",
+    "download": "https://repo.dreamnet.at/"
+  },
+  "kid1carus' theme repo": {
+    "packages": "https://kid1carus.github.io/repo/Packages.bz2",
+    "url": "https://kid1carus.github.io/repo/",
+    "download": "https://kid1carus.github.io/repo/"
+  },
+  "Litten's Wondercaf\u00e9 \u2615\ufe0f\ud83c\udf38": {
+    "packages": "https://repo.litten.love/Packages.bz2",
+    "url": "https://repo.litten.love/",
+    "download": "https://repo.litten.love/"
+  },
+  "R0wDrunner": {
+    "packages": "https://r0wdrunner.github.io/repo/Packages.bz2",
+    "url": "https://r0wdrunner.github.io/repo/",
+    "download": "https://r0wdrunner.github.io/repo/"
+  },
+  "CreatureCoding": {
+    "packages": "https://creaturecoding.com/repo/Packages.bz2",
+    "url": "https://creaturecoding.com/repo/",
+    "download": "https://creaturecoding.com/repo/"
+  },
+  "Alo's Repo": {
+    "packages": "https://worksbybbs.github.io/Packages.bz2",
+    "url": "https://worksbybbs.github.io/",
+    "download": "https://worksbybbs.github.io/"
+  },
+  "LaughingQuoll's Repo": {
+    "packages": "http://laughingquoll.net/repo/Packages.bz2",
+    "url": "http://laughingquoll.net/repo/",
+    "download": "http://laughingquoll.net/repo/"
+  },
+  "SkyFrost Beta Repository": {
+    "packages": "https://skyfrost.github.io/repo/Packages.bz2",
+    "url": "https://skyfrost.github.io/repo/",
+    "download": "https://skyfrost.github.io/repo/"
+  },
+  "iOS WebStack": {
+    "packages": "https://cydia.akemi.ai/webstack/Packages.bz2",
+    "url": "https://cydia.akemi.ai/webstack/",
+    "download": "https://cydia.akemi.ai/webstack/"
+  },
+  "Spica T Repo": {
+    "packages": "https://spicat.github.io/Packages.bz2",
+    "url": "https://spicat.github.io/",
+    "download": "https://spicat.github.io/"
+  },
+  "LaVie": {
+    "packages": "https://lgariv.github.io/LaVie/Packages.bz2",
+    "url": "https://lgariv.github.io/LaVie/",
+    "download": "https://lgariv.github.io/LaVie/"
+  },
+  "abxyap's Repo ": {
+    "packages": "https://abxyap.github.io/repo/Packages.bz2",
+    "url": "https://abxyap.github.io/repo/",
+    "download": "https://abxyap.github.io/repo/"
+  },
+  "RBT Digital Beta": {
+    "packages": "https://repo.rbtdigital.com/Packages.bz2",
+    "url": "https://repo.rbtdigital.com/",
+    "download": "https://repo.rbtdigital.com/"
+  },
+  "jailbreak365's Repo": {
+    "packages": "https://jb365.github.io/Packages.bz2",
+    "url": "https://jb365.github.io/",
+    "download": "https://jb365.github.io/"
+  },
+  "Alex Beals": {
+    "packages": "https://cydia.alexbeals.com/Packages.bz2",
+    "url": "https://cydia.alexbeals.com/",
+    "download": "https://cydia.alexbeals.com/"
+  },
+  "CPDD Supporter Repo": {
+    "packages": "https://supporter.cpdigitaldarkroom.com/repo/Packages.bz2",
+    "url": "https://supporter.cpdigitaldarkroom.com/repo/",
+    "download": "https://supporter.cpdigitaldarkroom.com/repo/"
+  },
+  "pillowbear's repo": {
+    "packages": "https://pillowbear.github.io/Packages.bz2",
+    "url": "https://pillowbear.github.io/",
+    "download": "https://pillowbear.github.io/"
+  },
+  "OneLessLagger": {
+    "packages": "https://onelesslagger.github.io/repo/Packages.bz2",
+    "url": "https://onelesslagger.github.io/repo/",
+    "download": "https://onelesslagger.github.io/repo/"
+  },
+  "Pancakeufo's Repo": {
+    "packages": "https://pancakeufo.github.io/repo/Packages.bz2",
+    "url": "https://pancakeufo.github.io/repo/",
+    "download": "https://pancakeufo.github.io/repo/"
+  },
+  "AnthoPak's Repo": {
+    "packages": "https://repo.anthopak.dev/Packages.bz2",
+    "url": "https://repo.anthopak.dev/",
+    "download": "https://repo.anthopak.dev/"
+  },
+  "Zebra ": {
+    "packages": "https://getzbra.com/repo/Packages.bz2",
+    "url": "https://getzbra.com/repo/",
+    "download": "https://getzbra.com/repo/"
+  },
+  "Basepack": {
+    "packages": "https://repo.basepack.co/Packages.bz2",
+    "url": "https://repo.basepack.co/",
+    "download": "https://repo.basepack.co/"
+  },
+  "Burrit0z Repo": {
+    "packages": "https://repo.burrit0z.dev/Packages.bz2",
+    "url": "https://repo.burrit0z.dev/",
+    "download": "https://repo.burrit0z.dev/"
+  },
+  "Tinyapps\u5b98\u65b9\u6e90": {
+    "packages": "https://apt.tinyapps.cn/Packages.bz2",
+    "url": "https://apt.tinyapps.cn/",
+    "download": "https://apt.tinyapps.cn/"
+  },
+  "jjolano's iOS Tweaks": {
+    "packages": "https://ios.jjolano.me/Packages.bz2",
+    "url": "https://ios.jjolano.me/",
+    "download": "https://ios.jjolano.me/"
+  },
+  "srepo": {
+    "packages": "https://ftp.sudhip.com/jbrepo/Packages.bz2",
+    "url": "https://ftp.sudhip.com/jbrepo/",
+    "download": "https://ftp.sudhip.com/jbrepo/"
+  },
+  "Kurrt's Repo": {
+    "packages": "https://kurrt.com/repo/Packages.bz2",
+    "url": "https://kurrt.com/repo/",
+    "download": "https://kurrt.com/repo/"
+  },
+  "qwertyuiop1379's repo": {
+    "packages": "http://repo.qwertyuiop1379.com/Packages.bz2",
+    "url": "http://repo.qwertyuiop1379.com/",
+    "download": "http://repo.qwertyuiop1379.com/"
+  },
+  "alpha's repo": {
+    "packages": "https://thealphastream.github.io/repo/Packages.bz2",
+    "url": "https://thealphastream.github.io/repo/",
+    "download": "https://thealphastream.github.io/repo/"
+  },
+  "Smacpats\u2019 Repo": {
+    "packages": "https://smacpats.github.io/repo/Packages.bz2",
+    "url": "https://smacpats.github.io/repo/",
+    "download": "https://smacpats.github.io/repo/"
+  },
+  "Wizages Repo": {
+    "packages": "https://wizage.github.io/repo/Packages.bz2",
+    "url": "https://wizage.github.io/repo/",
+    "download": "https://wizage.github.io/repo/"
+  },
+  "amooose": {
+    "packages": "https://amooose.github.io/repo/Packages.bz2",
+    "url": "https://amooose.github.io/repo/",
+    "download": "https://amooose.github.io/repo/"
+  },
+  "JannikCrack": {
+    "packages": "https://jannikcrack.github.io/Packages.bz2",
+    "url": "https://jannikcrack.github.io/",
+    "download": "https://jannikcrack.github.io/"
+  },
+  "iTweakOS's Public Repo": {
+    "packages": "https://itweakos.github.io/itweakosrepo/Packages.bz2",
+    "url": "https://itweakos.github.io/itweakosrepo/",
+    "download": "https://itweakos.github.io/itweakosrepo/"
+  },
+  "Packix": {
+    "packages": "https://repo.packix.com/Packages.bz2",
+    "url": "https://repo.packix.com/",
+    "download": "https://repo.packix.com/"
+  },
+  "Alex's Repo": {
+    "packages": "https://leftyfl1p.github.io/Packages.bz2",
+    "url": "https://leftyfl1p.github.io/",
+    "download": "https://leftyfl1p.github.io/"
+  },
+  "iApeiron\u2019s Repo": {
+    "packages": "https://iApeiron.github.io/Packages.bz2",
+    "url": "https://iApeiron.github.io/",
+    "download": "https://iApeiron.github.io/"
+  },
+  "Ruler225's Repo": {
+    "packages": "https://ruler225.github.io/Packages.bz2",
+    "url": "https://ruler225.github.io/",
+    "download": "https://ruler225.github.io/"
+  },
+  "Alfhaily APT": {
+    "packages": "https://apt.alfhaily.me/Packages.bz2",
+    "url": "https://apt.alfhaily.me/",
+    "download": "https://apt.alfhaily.me/"
+  },
+  "gstpsk": {
+    "packages": "https://gstpsk.github.io/cydia/Packages.bz2",
+    "url": "https://gstpsk.github.io/cydia/",
+    "download": "https://gstpsk.github.io/cydia/"
+  },
+  "Wavelink Studios Public Repo": {
+    "packages": "https://wavelinkstudios.github.io/repo/Packages.bz2",
+    "url": "https://wavelinkstudios.github.io/repo/",
+    "download": "https://wavelinkstudios.github.io/repo/"
+  },
+  "Amy's Repo": {
+    "packages": "https://repo.elihc.dev/Packages.bz2",
+    "url": "https://repo.elihc.dev/",
+    "download": "https://repo.elihc.dev/"
+  },
+  "Menard iOS Designs": {
+    "packages": "https://menardiosdesigns.github.io/repo/Packages.bz2",
+    "url": "https://menardiosdesigns.github.io/repo/",
+    "download": "https://menardiosdesigns.github.io/repo/"
+  },
+  "Sk37cH\u2019s Repo": {
+    "packages": "https://sk37chi.github.io/Packages.bz2",
+    "url": "https://sk37chi.github.io/",
+    "download": "https://sk37chi.github.io/"
+  },
+  "Moski's Repo ": {
+    "packages": "https://matthewpierson.github.io/Packages.bz2",
+    "url": "https://matthewpierson.github.io/",
+    "download": "https://matthewpierson.github.io/"
+  },
+  "mbo42's repo": {
+    "packages": "https://mbo42.com/repo/Packages.bz2",
+    "url": "https://mbo42.com/repo/",
+    "download": "https://mbo42.com/repo/"
+  },
+  "FlashBack for iOS!": {
+    "packages": "https://flashbackios.github.io/Packages.bz2",
+    "url": "https://flashbackios.github.io/",
+    "download": "https://flashbackios.github.io/"
+  },
+  "Nick's Beta Repo": {
+    "packages": "https://repo.nickthompson.guru/beta/Packages.bz2",
+    "url": "https://repo.nickthompson.guru/beta/",
+    "download": "https://repo.nickthompson.guru/beta/"
+  },
+  "Supercharge Repo": {
+    "packages": "https://repo.supercharge.app/Packages.bz2",
+    "url": "https://repo.supercharge.app/",
+    "download": "https://repo.supercharge.app/"
+  },
+  "wbraffman's repo": {
+    "packages": "https://wbraffman.github.io/repo/Packages.bz2",
+    "url": "https://wbraffman.github.io/repo/",
+    "download": "https://wbraffman.github.io/repo/"
+  },
+  "Jakey's Repo": {
+    "packages": "https://jakeydev.github.io/repo/Packages.bz2",
+    "url": "https://jakeydev.github.io/repo/",
+    "download": "https://jakeydev.github.io/repo/"
+  },
+  "AppleVegas Repo": {
+    "packages": "https://applevegas.github.io/Packages.bz2",
+    "url": "https://applevegas.github.io/",
+    "download": "https://applevegas.github.io/"
+  },
+  "KlutchKyles's Repo": {
+    "packages": "https://klutchkyle.com/Packages.bz2",
+    "url": "https://klutchkyle.com/",
+    "download": "https://klutchkyle.com/"
+  },
+  "Pwn20wnd's Cydia Repo": {
+    "packages": "https://pwn20wndstuff.github.io/repo/Packages.bz2",
+    "url": "https://pwn20wndstuff.github.io/repo/",
+    "download": "https://pwn20wndstuff.github.io/repo/"
+  },
+  "checkra1n Substrate Repo": {
+    "packages": "https://checkra.in/assets/mobilesubstrate/Packages.bz2",
+    "url": "https://checkra.in/assets/mobilesubstrate/",
+    "download": "https://checkra.in/assets/mobilesubstrate/"
+  },
+  "Unicorn's Repo": {
+    "packages": "https://mdean808.github.io/repo/Packages.bz2",
+    "url": "https://mdean808.github.io/repo/",
+    "download": "https://mdean808.github.io/repo/"
+  },
+  "adam's repo": {
+    "packages": "https://m1sta.heywhatsupguysits.icu/Packages.bz2",
+    "url": "https://m1sta.heywhatsupguysits.icu/",
+    "download": "https://m1sta.heywhatsupguysits.icu/"
+  },
+  "aEk's Repo": {
+    "packages": "https://speedmx.github.io/Packages.bz2",
+    "url": "https://speedmx.github.io/",
+    "download": "https://speedmx.github.io/"
+  },
+  "Evan's Repo": {
+    "packages": "https://repo.evaneliasyoung.com/Packages.bz2",
+    "url": "https://repo.evaneliasyoung.com/",
+    "download": "https://repo.evaneliasyoung.com/"
+  },
+  "0ver$hadowed Repo": {
+    "packages": "https://obumbravit.github.io/0SRepo/Packages.bz2",
+    "url": "https://obumbravit.github.io/0SRepo/",
+    "download": "https://obumbravit.github.io/0SRepo/"
+  },
+  "WilsontheWolf's Repo": {
+    "packages": "https://wilsonthewolf.github.io/repo/Packages.bz2",
+    "url": "https://wilsonthewolf.github.io/repo/",
+    "download": "https://wilsonthewolf.github.io/repo/"
+  },
+  "hamza": {
+    "packages": "https://hamzaipa.github.io/sh/Packages.bz2",
+    "url": "https://hamzaipa.github.io/sh/",
+    "download": "https://hamzaipa.github.io/sh/"
+  },
+  "Matchstic (Convergance)": {
+    "packages": "https://convergance.incendo.ws/Packages.bz2",
+    "url": "https://convergance.incendo.ws/",
+    "download": "https://convergance.incendo.ws/"
+  },
+  "GSquared's Repo": {
+    "packages": "https://repo.gsquared.io/Packages.bz2",
+    "url": "https://repo.gsquared.io/",
+    "download": "https://repo.gsquared.io/"
+  },
+  "Team FESTIVAL": {
+    "packages": "https://repo.festival.tf/Packages.bz2",
+    "url": "https://repo.festival.tf/",
+    "download": "https://repo.festival.tf/"
+  },
+  "IPG's Cydia Repo": {
+    "packages": "https://cydia.invoxiplaygames.uk/Packages.bz2",
+    "url": "https://cydia.invoxiplaygames.uk/",
+    "download": "https://cydia.invoxiplaygames.uk/"
+  },
+  "Sileo Native Depiction Sandbox": {
+    "packages": "https://repotest.shuga.co/Packages.bz2",
+    "url": "https://repotest.shuga.co/",
+    "download": "https://repotest.shuga.co/"
+  },
+  "ELiTEiiiSkillz": {
+    "packages": "https://eliteiiiskillz.github.io/Packages.bz2",
+    "url": "https://eliteiiiskillz.github.io/",
+    "download": "https://eliteiiiskillz.github.io/"
+  },
+  "nostalgia": {
+    "packages": "https://n-stalgia.github.io/cydia/Packages.bz2",
+    "url": "https://n-stalgia.github.io/cydia/",
+    "download": "https://n-stalgia.github.io/cydia/"
+  },
+  "Shuga's Repo": {
+    "packages": "https://repo.shuga.co/Packages.bz2",
+    "url": "https://repo.shuga.co/",
+    "download": "https://repo.shuga.co/"
+  },
+  "HKG Repository": {
+    "packages": "https://repo.hudsongreen.com/Packages.bz2",
+    "url": "https://repo.hudsongreen.com/",
+    "download": "https://repo.hudsongreen.com/"
+  },
+  "Fouad's Repo": {
+    "packages": "https://apt.fouadraheb.com/Packages.bz2",
+    "url": "https://apt.fouadraheb.com/",
+    "download": "https://apt.fouadraheb.com/"
+  },
+  "ARX8x's repo": {
+    "packages": "https://xninja.xyz/apt/Packages.bz2",
+    "url": "https://xninja.xyz/apt/",
+    "download": "https://xninja.xyz/apt/"
+  },
+  "level3tjg": {
+    "packages": "https://level3tjg.xyz/repo/Packages.bz2",
+    "url": "https://level3tjg.xyz/repo/",
+    "download": "https://level3tjg.xyz/repo/"
+  },
+  "Qiosz": {
+    "packages": "https://iqsi.github.io/dev/Packages.bz2",
+    "url": "https://iqsi.github.io/dev/",
+    "download": "https://iqsi.github.io/dev/"
+  },
+  "uSHIVADOC's beta repo": {
+    "packages": "https://akeaswaran.me/repo/Packages.bz2",
+    "url": "https://akeaswaran.me/repo/",
+    "download": "https://akeaswaran.me/repo/"
+  },
+  "Manof's Public Repository": {
+    "packages": "https://obenchekroun.github.io/Packages.bz2",
+    "url": "https://obenchekroun.github.io/",
+    "download": "https://obenchekroun.github.io/"
+  },
+  "H6nry's repo": {
+    "packages": "https://h6nry.github.io/repo/Packages.bz2",
+    "url": "https://h6nry.github.io/repo/",
+    "download": "https://h6nry.github.io/repo/"
+  },
+  "TweakiOS's Cydia Repo": {
+    "packages": "https://tweakios.com/Packages.bz2",
+    "url": "https://tweakios.com/",
+    "download": "https://tweakios.com/"
+  },
+  "M1staAwesome": {
+    "packages": "https://heywhatsupguysits.icu/m1sta/Packages.bz2",
+    "url": "https://heywhatsupguysits.icu/m1sta/",
+    "download": "https://heywhatsupguysits.icu/m1sta/"
+  },
+  "nitosoft AppleTV 4+ repo": {
+    "packages": "https://nitosoft.com/repo/Packages.bz2",
+    "url": "https://nitosoft.com/repo/",
+    "download": "https://nitosoft.com/repo/"
+  },
+  "Foggy's Repository": {
+    "packages": "https://foggy-j.github.io/repo/Packages.bz2",
+    "url": "https://foggy-j.github.io/repo/",
+    "download": "https://foggy-j.github.io/repo/"
+  },
+  "LINEExtender": {
+    "packages": "https://lineextender.github.io/Packages.bz2",
+    "url": "https://lineextender.github.io/",
+    "download": "https://lineextender.github.io/"
+  },
+  "alex_png's Repository": {
+    "packages": "https://alexpng.github.io/Packages.bz2",
+    "url": "https://alexpng.github.io/",
+    "download": "https://alexpng.github.io/"
+  },
+  "Hiraku": {
+    "packages": "https://cydia.hiraku.tw/Packages.bz2",
+    "url": "https://cydia.hiraku.tw/",
+    "download": "https://cydia.hiraku.tw/"
+  },
+  "1Conan": {
+    "packages": "https://repo.1conan.com/Packages.bz2",
+    "url": "https://repo.1conan.com/",
+    "download": "https://repo.1conan.com/"
+  },
+  "easonwumac": {
+    "packages": "https://cydia.easonwu.org/Packages.bz2",
+    "url": "https://cydia.easonwu.org/",
+    "download": "https://cydia.easonwu.org/"
+  },
+  "stek29's Cydia repo": {
+    "packages": "https://stek29.rocks/cyrepo/Packages.bz2",
+    "url": "https://stek29.rocks/cyrepo/",
+    "download": "https://stek29.rocks/cyrepo/"
+  },
+  "shepgoba's repo": {
+    "packages": "https://shepgobarepo.github.io/Packages.bz2",
+    "url": "https://shepgobarepo.github.io/",
+    "download": "https://shepgobarepo.github.io/"
+  },
+  "KingPuffdaddi's Repo": {
+    "packages": "https://kingpuffdaddi.github.io/Packages.bz2",
+    "url": "https://kingpuffdaddi.github.io/",
+    "download": "https://kingpuffdaddi.github.io/"
+  },
+  "henrikssonbrothers": {
+    "packages": "https://henrikssonbrothers.com/cydia/repo/Packages.bz2",
+    "url": "https://henrikssonbrothers.com/cydia/repo/",
+    "download": "https://henrikssonbrothers.com/cydia/repo/"
+  },
+  "Kaurux": {
+    "packages": "https://karimo299.github.io/repo/Packages.bz2",
+    "url": "https://karimo299.github.io/repo/",
+    "download": "https://karimo299.github.io/repo/"
+  },
+  "remyla's repo": {
+    "packages": "https://remyla31.github.io/Packages.bz2",
+    "url": "https://remyla31.github.io/",
+    "download": "https://remyla31.github.io/"
+  },
+  "gilesgc repo": {
+    "packages": "https://gilesgc.github.io/repo/Packages.bz2",
+    "url": "https://gilesgc.github.io/repo/",
+    "download": "https://gilesgc.github.io/repo/"
+  },
+  "SarahH12099 Repo": {
+    "packages": "https://sarahh12099.github.io/repo/Packages.bz2",
+    "url": "https://sarahh12099.github.io/repo/",
+    "download": "https://sarahh12099.github.io/repo/"
+  },
+  "Tiger Repo": {
+    "packages": "https://tiger-repo.github.io/Tiger/Packages.bz2",
+    "url": "https://tiger-repo.github.io/Tiger/",
+    "download": "https://tiger-repo.github.io/Tiger/"
+  },
+  "AeonLucid": {
+    "packages": "https://aeonlucid.com/cydia/Packages.bz2",
+    "url": "https://aeonlucid.com/cydia/",
+    "download": "https://aeonlucid.com/cydia/"
+  },
+  "LacertosusDeus's Repo": {
+    "packages": "https://lacertosusrepo.github.io/Packages.bz2",
+    "url": "https://lacertosusrepo.github.io/",
+    "download": "https://lacertosusrepo.github.io/"
+  },
+  "Jakeashacks": {
+    "packages": "https://jakeashacks.net/cydia/Packages.bz2",
+    "url": "https://jakeashacks.net/cydia/",
+    "download": "https://jakeashacks.net/cydia/"
+  },
+  "KyleFang": {
+    "packages": "https://zhigang1992.github.io/cydia/Packages.bz2",
+    "url": "https://zhigang1992.github.io/cydia/",
+    "download": "https://zhigang1992.github.io/cydia/"
+  },
+  "AhmadNagy's Repo": {
+    "packages": "https://ahmadnagy.github.io/Packages.bz2",
+    "url": "https://ahmadnagy.github.io/",
+    "download": "https://ahmadnagy.github.io/"
+  },
+  "tihmstar beta repo": {
+    "packages": "https://repo.tihmstar.net/Packages.gz",
+    "url": "https://repo.tihmstar.net/",
+    "download": "https://repo.tihmstar.net/"
+  },
+  "PsychoTea's Backroom": {
+    "packages": "https://repo.sparkes.zone/Packages.bz2",
+    "url": "https://repo.sparkes.zone/",
+    "download": "https://repo.sparkes.zone/"
+  },
+  "Procursus": {
+    "packages": "https://apt.procurs.us/dists/iphoneos-arm64/1700/main/binary-iphoneos-arm/Packages",
+    "url": "https://apt.procurs.us/",
+    "download": "https://apt.procurs.us/"
+  },
+  "Randomblock1's Repo": {
+    "packages": "https://randomblock1.github.io/repo/Packages.bz2",
+    "url": "https://randomblock1.github.io/repo/",
+    "download": "https://randomblock1.github.io/repo/"
+  },
+  "Razor's Repo": {
+    "packages": "https://floofnamedrazor.github.io/Packages.bz2",
+    "url": "https://floofnamedrazor.github.io/",
+    "download": "https://floofnamedrazor.github.io/"
+  },
+  "Max Armin's Repo": {
+    "packages": "https://maxarmin.github.io/Packages.bz2",
+    "url": "https://maxarmin.github.io/",
+    "download": "https://maxarmin.github.io/"
+  },
+  "carsuki's repo": {
+    "packages": "https://repo.carsuki.moe/Packages.bz2",
+    "url": "https://repo.carsuki.moe/",
+    "download": "https://repo.carsuki.moe/"
+  },
+  "Azozz ALFiras": {
+    "packages": "https://apt.azozzalfiras.co/Packages.bz2",
+    "url": "https://apt.azozzalfiras.co/",
+    "download": "https://apt.azozzalfiras.co/"
+  },
+  "OatmealDome's Repo": {
+    "packages": "https://cydia.oatmealdome.me/Packages.bz2",
+    "url": "https://cydia.oatmealdome.me/",
+    "download": "https://cydia.oatmealdome.me/"
+  },
+  "Dezqo's Repository": {
+    "packages": "https://dezqo.github.io/iosrepo/Packages.bz2",
+    "url": "https://dezqo.github.io/iosrepo/",
+    "download": "https://dezqo.github.io/iosrepo/"
+  },
+  "deVbug Cydia Repo": {
+    "packages": "https://devbug.me/apt/Packages.bz2",
+    "url": "https://devbug.me/apt/",
+    "download": "https://devbug.me/apt/"
+  },
+  "RossDarker's Repo": {
+    "packages": "https://rossdarker.github.io/repo/Packages.bz2",
+    "url": "https://rossdarker.github.io/repo/",
+    "download": "https://rossdarker.github.io/repo/"
+  },
+  "iSecureOS Security Repo": {
+    "packages": "https://isecureos.idevicecentral.com/repo/Packages.bz2",
+    "url": "https://isecureos.idevicecentral.com/repo/",
+    "download": "https://isecureos.idevicecentral.com/repo/"
+  },
+  "Starwarsfan2099's Repo": {
+    "packages": "https://starwarsfan2099.github.io/Packages.bz2",
+    "url": "https://starwarsfan2099.github.io/",
+    "download": "https://starwarsfan2099.github.io/"
+  },
+  "Delta Repository": {
+    "packages": "https://delta-icons.github.io/Packages.gz",
+    "url": "https://delta-icons.github.io/",
+    "download": "https://delta-icons.github.io/"
+  },
+  "if0x\u2019s beta repo": {
+    "packages": "https://if0x.github.io/Packages.bz2",
+    "url": "https://if0x.github.io/",
+    "download": "https://if0x.github.io/"
+  },
+  "PeterPan": {
+    "packages": "https://p3t3rpan.github.io/Packages.bz2",
+    "url": "https://p3t3rpan.github.io/",
+    "download": "https://p3t3rpan.github.io/"
+  },
+  "tdmd repo": {
+    "packages": "https://tdmd.github.io/Packages.bz2",
+    "url": "https://tdmd.github.io/",
+    "download": "https://tdmd.github.io/"
+  },
+  "iwazowski.com": {
+    "packages": "https://iwazowski.com/repo/Packages.bz2",
+    "url": "https://iwazowski.com/repo/",
+    "download": "https://iwazowski.com/repo/"
+  },
+  "projectblue": {
+    "packages": "https://ashenyx.github.io/cydia/projectblue/Packages.bz2",
+    "url": "https://ashenyx.github.io/cydia/projectblue/",
+    "download": "https://ashenyx.github.io/cydia/projectblue/"
+  },
+  "YulkyTulky": {
+    "packages": "https://yulkytulky.com/Packages.bz2",
+    "url": "https://yulkytulky.com/",
+    "download": "https://yulkytulky.com/"
+  },
+  "Deja-Wu": {
+    "packages": "https://deja-wu.github.io/Packages.bz2",
+    "url": "https://deja-wu.github.io/",
+    "download": "https://deja-wu.github.io/"
+  },
+  "roymakestuff": {
+    "packages": "https://roymakestuff.github.io/Packages.bz2",
+    "url": "https://roymakestuff.github.io/",
+    "download": "https://roymakestuff.github.io/"
+  },
+  "ridn": {
+    "packages": "https://ridn.me/repo/Packages.bz2",
+    "url": "https://ridn.me/repo/",
+    "download": "https://ridn.me/repo/"
+  },
+  "Sparon's Repo": {
+    "packages": "https://sparon.ml/repo/Packages.bz2",
+    "url": "https://sparon.ml/repo/",
+    "download": "https://sparon.ml/repo/"
+  },
+  "eXqusic's Repo": {
+    "packages": "https://exqusic.github.io/Packages.bz2",
+    "url": "https://exqusic.github.io/",
+    "download": "https://exqusic.github.io/"
+  },
+  "winneon's repository": {
+    "packages": "https://repo.winneon.moe/Packages.bz2",
+    "url": "https://repo.winneon.moe/",
+    "download": "https://repo.winneon.moe/"
+  },
+  "4nni3 Repo": {
+    "packages": "https://repo.4nni3.com/Packages.bz2",
+    "url": "https://repo.4nni3.com/",
+    "download": "https://repo.4nni3.com/"
+  },
+  "DODGraphics Repo": {
+    "packages": "https://dodgraphics.github.io/Packages.bz2",
+    "url": "https://dodgraphics.github.io/",
+    "download": "https://dodgraphics.github.io/"
+  },
+  "shinvou's repo": {
+    "packages": "https://shinvou.org/repo/Packages.bz2",
+    "url": "https://shinvou.org/repo/",
+    "download": "https://shinvou.org/repo/"
+  },
+  "nitosoft beta testing repo": {
+    "packages": "https://nitosoft.com/beta2/Packages.bz2",
+    "url": "https://nitosoft.com/beta2/",
+    "download": "https://nitosoft.com/beta2/"
+  },
+  "Decimation's Repo": {
+    "packages": "https://decimation.github.io/Packages.bz2",
+    "url": "https://decimation.github.io/",
+    "download": "https://decimation.github.io/"
+  },
+  "joemerlino Public Repository": {
+    "packages": "https://joemerlino.github.io/repo/Packages.bz2",
+    "url": "https://joemerlino.github.io/repo/",
+    "download": "https://joemerlino.github.io/repo/"
+  },
+  "Chronix's Repo": {
+    "packages": "https://akachronix.github.io/repo/Packages.bz2",
+    "url": "https://akachronix.github.io/repo/",
+    "download": "https://akachronix.github.io/repo/"
+  },
+  "Ivano Bilenchi's Repo": {
+    "packages": "https://ib-soft.net/cydia/Packages.bz2",
+    "url": "https://ib-soft.net/cydia/",
+    "download": "https://ib-soft.net/cydia/"
+  },
+  "ModMyTTD+": {
+    "packages": "https://repounclutter.coolstar.org/Packages.bz2",
+    "url": "https://repounclutter.coolstar.org/",
+    "download": "https://repounclutter.coolstar.org/"
+  },
+  "Dave1482": {
+    "packages": "https://repo.dave1482.com/Packages.bz2",
+    "url": "https://repo.dave1482.com/",
+    "download": "https://repo.dave1482.com/"
+  },
+  "CydiaTelesphoreo": {
+    "packages": "http://apt.saurik.com/dists/ios/main/binary-iphoneos-arm/Packages.bz2",
+    "url": "http://apt.saurik.com/dists/ios/",
+    "download": "http://apt.saurik.com/dists/ios/"
+  },
+  "BingnerElucubratus": {
+    "packages": "https://apt.bingner.com/dists/ios/1443.00/main/binary-iphoneos-arm/Packages.bz2",
+    "url": "https://apt.bingner.com/",
+    "download": "https://apt.bingner.com/dists/ios/1443.00/"
+  },
+  "Sirius's Repo": {
+    "packages": "https://siriusdev.me/privrepo/Packages.bz2",
+    "url": "https://siriusdev.me/privrepo/",
+    "download": "https://siriusdev.me/privrepo/"
+  },
+  "iOSDesigner Repo": {
+    "packages": "https://iosdesigner.github.io/repo/Packages.bz2",
+    "url": "https://iosdesigner.github.io/repo/",
+    "download": "https://iosdesigner.github.io/repo/"
+  },
+  "Frida": {
+    "packages": "https://build.frida.re/Packages.bz2",
+    "url": "https://build.frida.re/",
+    "download": "https://build.frida.re/"
+  },
+  "i.danstaface.net": {
+    "packages": "http://deb.danstaface.net/Packages.bz2",
+    "url": "http://deb.danstaface.net/",
+    "download": "http://deb.danstaface.net/"
+  },
+  "XMB5": {
+    "packages": "https://xmb5.github.io/cydia/Packages.bz2",
+    "url": "https://xmb5.github.io/cydia/",
+    "download": "https://xmb5.github.io/cydia/"
+  },
+  "Bxnto": {
+    "packages": "https://bxnto.github.io/Packages.bz2",
+    "url": "https://bxnto.github.io/",
+    "download": "https://bxnto.github.io/"
+  },
+  "szifon.com Cydia source": {
+    "packages": "https://stable.szifon.com/Packages.bz2",
+    "url": "https://stable.szifon.com/",
+    "download": "https://stable.szifon.com/"
+  },
+  "Brian's Repo": {
+    "packages": "https://brianleek.me/repo/Packages.bz2",
+    "url": "https://brianleek.me/repo/",
+    "download": "https://brianleek.me/repo/"
+  },
+  "trentjk's repo": {
+    "packages": "https://trentjk.github.io/Packages.bz2",
+    "url": "https://trentjk.github.io/",
+    "download": "https://trentjk.github.io/"
+  },
+  "TaleRenaitare": {
+    "packages": "https://repo.renai.me/Packages.bz2",
+    "url": "https://repo.renai.me/",
+    "download": "https://repo.renai.me/"
+  },
+  "TurntTonsils' Repo": {
+    "packages": "https://TurntTonsils.github.io/Packages.bz2",
+    "url": "https://TurntTonsils.github.io/",
+    "download": "https://TurntTonsils.github.io/"
+  },
+  "nahum365 repo": {
+    "packages": "https://nahum365.github.io/Packages.bz2",
+    "url": "https://nahum365.github.io/",
+    "download": "https://nahum365.github.io/"
+  },
+  "sident.net for cydia": {
+    "packages": "http://ftp.sident.net/cydia-beta/Packages.bz2",
+    "url": "http://ftp.sident.net/cydia-beta/",
+    "download": "http://ftp.sident.net/cydia-beta/"
+  },
+  "carbonDevStudio Public Repo": {
+    "packages": "https://carbondevstudio.github.io/Packages.bz2",
+    "url": "https://carbondevstudio.github.io/",
+    "download": "https://carbondevstudio.github.io/"
+  },
+  "smokin1337's Repo": {
+    "packages": "https://smokin1337.github.io/Packages.bz2",
+    "url": "https://smokin1337.github.io/",
+    "download": "https://smokin1337.github.io/"
+  },
+  "Paparajote's Repo": {
+    "packages": "https://paparajote.github.io/Packages.bz2",
+    "url": "https://paparajote.github.io/",
+    "download": "https://paparajote.github.io/"
+  },
+  "MTAC's Repo": {
+    "packages": "https://repo.mtac.app/repo/Packages.bz2",
+    "url": "https://repo.mtac.app/repo/",
+    "download": "https://repo.mtac.app/repo/"
+  },
+  "Wendigo\u00b4s Tweak Stash": {
+    "packages": "https://wendigotv.github.io/repo/Packages.bz2",
+    "url": "https://wendigotv.github.io/repo/",
+    "download": "https://wendigotv.github.io/repo/"
+  },
+  "Ken's Repo": {
+    "packages": "https://kkyuen.github.io/repo/Packages.bz2",
+    "url": "https://kkyuen.github.io/repo/",
+    "download": "https://kkyuen.github.io/repo/"
+  },
+  "Kaeru Team Repo": {
+    "packages": "https://apt.kaeru.world/ios/Packages.bz2",
+    "url": "https://apt.kaeru.world/ios/",
+    "download": "https://apt.kaeru.world/ios/"
+  },
+  "blue symphony": {
+    "packages": "https://bluesymphony.kirara.ca/Packages.bz2",
+    "url": "https://bluesymphony.kirara.ca/",
+    "download": "https://bluesymphony.kirara.ca/"
+  },
+  "TheLab": {
+    "packages": "https://repo.sciency.us/Packages.bz2",
+    "url": "https://repo.sciency.us/",
+    "download": "https://repo.sciency.us/"
+  },
+  "Avalon Studios": {
+    "packages": "https://repo.avalon-studios.de/Packages.bz2",
+    "url": "https://repo.avalon-studios.de/",
+    "download": "https://repo.avalon-studios.de/"
+  },
+  "EthanRDoesMC": {
+    "packages": "https://ethanrdoesmc.com/repo/Packages.bz2",
+    "url": "https://ethanrdoesmc.com/repo/",
+    "download": "https://ethanrdoesmc.com/repo/"
+  },
+  "Senka's Repo": {
+    "packages": "https://senkawolf.github.io/repo/Packages.bz2",
+    "url": "https://senkawolf.github.io/repo/",
+    "download": "https://senkawolf.github.io/repo/"
+  },
+  "chickenmatt5 repo": {
+    "packages": "https://chickenmatt5.github.io/repo/Packages.bz2",
+    "url": "https://chickenmatt5.github.io/repo/",
+    "download": "https://chickenmatt5.github.io/repo/"
+  },
+  "ParrotGeek Software": {
+    "packages": "https://parrotgeek.net/repo/Packages.bz2",
+    "url": "https://parrotgeek.net/repo/",
+    "download": "https://parrotgeek.net/repo/"
+  },
+  "Chr1sDev": {
+    "packages": "https://repo.chr1s.dev/Packages.bz2",
+    "url": "https://repo.chr1s.dev/",
+    "download": "https://repo.chr1s.dev/"
+  },
+  "Odyssey Repo": {
+    "packages": "https://repo.theodyssey.dev/Packages.bz2",
+    "url": "https://repo.theodyssey.dev/",
+    "download": "https://repo.theodyssey.dev/"
+  },
+  "nullpixel's Repo": {
+    "packages": "http://repo.nullpixel.uk/Packages.bz2",
+    "url": "http://repo.nullpixel.uk/",
+    "download": "http://repo.nullpixel.uk/"
+  },
+  "ZX02": {
+    "packages": "https://zerui18.github.io/zx02/Packages.bz2",
+    "url": "https://zerui18.github.io/zx02/",
+    "download": "https://zerui18.github.io/zx02/"
+  },
+  "AgentEpsilon's Repo": {
+    "packages": "https://agentepsilon.github.io/repo/Packages.bz2",
+    "url": "https://agentepsilon.github.io/repo/",
+    "download": "https://agentepsilon.github.io/repo/"
+  },
+  "ikeymonitor.com": {
+    "packages": "https://ikeymonitor.com/apt/Packages.bz2",
+    "url": "https://ikeymonitor.com/apt/",
+    "download": "https://ikeymonitor.com/apt/"
+  },
+  "iTrickzGG\u2019s REPO": {
+    "packages": "https://itrickzgg.github.io/Packages.bz2",
+    "url": "https://itrickzgg.github.io/",
+    "download": "https://itrickzgg.github.io/"
+  },
+  "Rival Dev's Public Repo": {
+    "packages": "https://rival-dev.github.io/Packages.bz2",
+    "url": "https://rival-dev.github.io/",
+    "download": "https://rival-dev.github.io/"
+  },
+  "everettjf.cydiarepo": {
+    "packages": "https://7we.win/cydia/Packages.bz2",
+    "url": "https://7we.win/cydia/",
+    "download": "https://7we.win/cydia/"
+  },
+  "Trevor Schmitt's Repo": {
+    "packages": "https://rovert.me/apt/Packages.bz2",
+    "url": "https://rovert.me/apt/",
+    "download": "https://rovert.me/apt/"
+  },
+  "propr's repo": {
+    "packages": "https://proprdev.github.io/repo/Packages.bz2",
+    "url": "https://proprdev.github.io/repo/",
+    "download": "https://proprdev.github.io/repo/"
+  },
+  "machport Repo": {
+    "packages": "https://machport.github.io/apt/Packages.bz2",
+    "url": "https://machport.github.io/apt/",
+    "download": "https://machport.github.io/apt/"
+  },
+  "Ryley's Repo": {
+    "packages": "https://ryleyangus.com/repo/Packages.bz2",
+    "url": "https://ryleyangus.com/repo/",
+    "download": "https://ryleyangus.com/repo/"
+  },
+  "Dave1482 Beta Repo": {
+    "packages": "https://beta.dave1482.com/Packages.bz2",
+    "url": "https://beta.dave1482.com/",
+    "download": "https://beta.dave1482.com/"
+  },
+  "MidnightChips' Emporium of iOS Tweaks and Apps, using a Debian based Repository Format": {
+    "packages": "https://repo.midnightchips.me/Packages.bz2",
+    "url": "https://repo.midnightchips.me/",
+    "download": "https://repo.midnightchips.me/"
+  },
+  "Lizynz's Repo": {
+    "packages": "https://lizynz.github.io/Packages.bz2",
+    "url": "https://lizynz.github.io/",
+    "download": "https://lizynz.github.io/"
+  },
+  "Thomz's repo": {
+    "packages": "https://thomz07.github.io/Packages.bz2",
+    "url": "https://thomz07.github.io/",
+    "download": "https://thomz07.github.io/"
+  },
+  "spiccaco's repo": {
+    "packages": "https://spiccaco.github.io/Packages.bz2",
+    "url": "https://spiccaco.github.io/",
+    "download": "https://spiccaco.github.io/"
+  },
+  "typ0s2d10": {
+    "packages": "https://typ0s2d10.appspot.com/repo/Packages.bz2",
+    "url": "https://typ0s2d10.appspot.com/repo/",
+    "download": "https://typ0s2d10.appspot.com/repo/"
+  },
+  "brxxn's repo": {
+    "packages": "https://brxxn.github.io/jailbreak-repo/Packages.bz2",
+    "url": "https://brxxn.github.io/jailbreak-repo/",
+    "download": "https://brxxn.github.io/jailbreak-repo/"
+  },
+  "Matchstic (Xen)": {
+    "packages": "http://xenpublic.incendo.ws/Packages.bz2",
+    "url": "http://xenpublic.incendo.ws/",
+    "download": "http://xenpublic.incendo.ws/"
+  },
+  "Tweaky \u00a9": {
+    "packages": "https://tweakyx.github.io/Packages.bz2",
+    "url": "https://tweakyx.github.io/",
+    "download": "https://tweakyx.github.io/"
+  },
+  "Futur3Sn0w Repo": {
+    "packages": "https://futur3sn0w.github.io/repo/Packages.bz2",
+    "url": "https://futur3sn0w.github.io/repo/",
+    "download": "https://futur3sn0w.github.io/repo/"
+  },
+  "PostBox Repo": {
+    "packages": "https://getpostbox.now.sh/Packages.bz2",
+    "url": "https://getpostbox.now.sh/",
+    "download": "https://getpostbox.now.sh/"
+  },
+  "dpkg9510's Repo": {
+    "packages": "https://dpkg9510.github.io/Packages.bz2",
+    "url": "https://dpkg9510.github.io/",
+    "download": "https://dpkg9510.github.io/"
+  },
+  "alombi's Repo": {
+    "packages": "https://alombi.xyz/repo/Packages.bz2",
+    "url": "https://alombi.xyz/repo/",
+    "download": "https://alombi.xyz/repo/"
+  },
+  "UnlimApps": {
+    "packages": "https://repo.unlimapps.com/Packages.gz",
+    "url": "https://repo.unlimapps.com/",
+    "download": "https://repo.unlimapps.com/"
+  },
+  "iNDS Team Official": {
+    "packages": "https://inds.nerd.net/Packages.bz2",
+    "url": "https://inds.nerd.net/",
+    "download": "https://inds.nerd.net/"
+  },
+  "StevSarm's Repo": {
+    "packages": "https://www.stevesarmiento.com/repo/Packages.bz2",
+    "url": "https://www.stevesarmiento.com/repo/",
+    "download": "https://www.stevesarmiento.com/repo/"
+  },
+  "Megadev": {
+    "packages": "https://megadevios.github.io/repo/Packages.bz2",
+    "url": "https://megadevios.github.io/repo/",
+    "download": "https://megadevios.github.io/repo/"
+  },
+  "James Yu's Repository": {
+    "packages": "https://fiercedeity-productions.github.io/repo/Packages.bz2",
+    "url": "https://fiercedeity-productions.github.io/repo/",
+    "download": "https://fiercedeity-productions.github.io/repo/"
+  },
+  "Burrit0z Beta Repository": {
+    "packages": "https://beta.burrit0z.dev/Packages.bz2",
+    "url": "https://beta.burrit0z.dev/",
+    "download": "https://beta.burrit0z.dev/"
+  },
+  "TheonlyGermanGuy's repo": {
+    "packages": "https://theonlygermanguy.github.io/repo/Packages.bz2",
+    "url": "https://theonlygermanguy.github.io/repo/",
+    "download": "https://theonlygermanguy.github.io/repo/"
+  },
+  "aliencillo": {
+    "packages": "https://aliencillo.github.io/repo/Packages.bz2",
+    "url": "https://aliencillo.github.io/repo/",
+    "download": "https://aliencillo.github.io/repo/"
+  },
+  "AutoTouch": {
+    "packages": "https://apt.autotouch.net/Packages.bz2",
+    "url": "https://apt.autotouch.net/",
+    "download": "https://apt.autotouch.net/"
+  },
+  "Pheux Repository": {
+    "packages": "https://pheuxdev.github.io/repo/Packages.bz2",
+    "url": "https://pheuxdev.github.io/repo/",
+    "download": "https://pheuxdev.github.io/repo/"
+  },
+  "FakeFake's Repo": {
+    "packages": "https://fakefakedev.github.io/repo/Packages.bz2",
+    "url": "https://fakefakedev.github.io/repo/",
+    "download": "https://fakefakedev.github.io/repo/"
+  },
+  "TetherMe": {
+    "packages": "http://repo.tetherme.net/Packages.bz2",
+    "url": "http://repo.tetherme.net/",
+    "download": "http://repo.tetherme.net/"
+  },
+  "candoizo's repo": {
+    "packages": "https://candoizo.gitlab.io/repo/Packages.bz2",
+    "url": "https://candoizo.gitlab.io/repo/",
+    "download": "https://candoizo.gitlab.io/repo/"
+  },
+  "CreatureSurvive's Repo": {
+    "packages": "https://creaturesurvive.github.io/Packages.bz2",
+    "url": "https://creaturesurvive.github.io/",
+    "download": "https://creaturesurvive.github.io/"
+  },
+  "Viren's Repo": {
+    "packages": "https://virenmohindra.me/Packages.bz2",
+    "url": "https://virenmohindra.me/",
+    "download": "https://virenmohindra.me/"
+  },
+  "m3": {
+    "packages": "https://m3dn.github.io/m3/Packages.bz2",
+    "url": "https://m3dn.github.io/m3/",
+    "download": "https://m3dn.github.io/m3/"
+  }
+}
